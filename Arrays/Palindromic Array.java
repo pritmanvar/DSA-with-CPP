@@ -1,5 +1,6 @@
 // Problem Line : https://practice.geeksforgeeks.org/problems/palindromic-array-1587115620/1
-	public static int palinArray(int[] a, int n){
+	
+    public static int palinArray(int[] a, int n){
         for(int i = 0; i < n; i++){ // Traverce through all array and check every element that it is palindrom or not
             if(!isPalindrom(a[i])){//if element is not a palindrom then we will return 0
                 return 0;
