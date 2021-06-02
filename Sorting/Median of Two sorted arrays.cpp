@@ -1,5 +1,5 @@
     // Problem Link : https://practice.geeksforgeeks.org/problems/median-of-two-sorted-arrays1618/1/?track=P100-Searching&batchId=197#4
-    
+    // geeksforgeeks has optimal solution than this one
     //I had used merge function of merge function but insted of use an array i had made 2 variable because i need only 2 elements to find median
     int findMedian(int arr1[], int n, int arr2[], int m)
     {
