@@ -37,14 +37,14 @@
 
 This will be the repository for C++ topic wise questions, practice questions and DSA :)
 
-Day 1 : Learned Arrays
+Day 1 : Learned Arrays and done some problems.
 
-Day 2 : Practiced problems of Arrays
+Day 2 : Practiced problems of Arrays.
 
-Day 3 : Learned Strings
+Day 3 : Learned Strings and done some problems.
 
-Day 4 : Practiced Problems of Strings
+Day 4 : Practiced Problems of Strings.
 
-Day 5 : Learned Sorting
+Day 5 : Learned Sorting and done some problems.
 
 Day 6 : Practiced Problems of Sorting
