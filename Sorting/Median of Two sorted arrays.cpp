@@ -19,7 +19,7 @@
             }else{
                 ans1 = ans2;
                 ans2 = arr2[j];
-                j++;
+                j++; 
                 k++;
             }
             if(k == ind+1){
