@@ -50,4 +50,4 @@ Day 5 : Learned Sorting and done some problems.
 
 Day 6 : Practiced Problems of Sorting
 
-Day 7 : Learned Searching
+Day 7 : Learned Searching and done some problems.
