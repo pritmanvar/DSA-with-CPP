@@ -28,10 +28,11 @@
 | Sort Algorithm | Best | Average | Worst | Space Complexity |
 | --- | --- | --- | --- | --- |
 | Selection Sort | ```O(n^2)``` | ```O(n^2)``` | ```O(n^2)``` | ```O(1)``` |
+| Bubble Sort | ```O(n^2)``` | ```O(n^2)``` | ```O(n^2)``` | ```O(1)``` |
 | Insertion Sort | ```O(n)``` | ```O(n^2)``` | ```O(n^2)``` | ```O(1)``` |
-| Quick Sort | ```O(log n)``` | ```O(log n)``` | ```O(n^2)``` | ```O(log n)``` |
-| Merge Sort | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(n)``` |
-| counting Sort | ```O(n+k)``` | ```O(n+k)``` | ```O(n+k)``` | ```O(n+k)``` |
+| Quick Sort | ```O(nlog n)``` | ```O(nlog n)``` | ```O(n^2)``` | ```O(log n)``` |
+| Merge Sort | ```O(nlog n)``` | ```O(nlog n)``` | ```O(nlog n)``` | ```O(n)``` |
+| counting Sort | ```O(n+k)``` | ```O(n+k)``` | ```O(n+k)``` | ```O(k)``` |
 
 ### 100 Days of Code
 
@@ -48,3 +49,5 @@ Day 4 : Practiced Problems of Strings.
 Day 5 : Learned Sorting and done some problems.
 
 Day 6 : Practiced Problems of Sorting
+
+Day 7 : Learned Searching
