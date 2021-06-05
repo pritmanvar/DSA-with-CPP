@@ -79,7 +79,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Three way partitioning
 ## Day 07 :
 ### Learned searching
-### Done some practice
+### Done some practice of slinding window technique
 * Count Occurences of Anagrams
 * Length of the longest substring
 * Longest Subarray with atmost K Even elements
