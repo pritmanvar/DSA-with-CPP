@@ -5,7 +5,7 @@
             int j = 0;
             int k = 0;
             vector<int> ans;
-            
+             
             while(i < n1){ // Traversing throug array A and chaeck that current element is present in other arrays or not.
                 if(j >= n2 || k >= n3)// If one of array goes out of bound then after that can not be same element.
                     break;
