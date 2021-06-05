@@ -101,6 +101,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Bella ciao (i will post here after end of contest)
 ### Solved some questions on prefixsum technique
 * Max Sum Subarray of size K
+* Longest Equal Prefix
 * Max value after m range operation
 * Subarray with given sum
 * Equilibrium Point
