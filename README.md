@@ -47,16 +47,19 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Find the Duplicate Number
 * K-th element of two sorted Arrays
 * Sort an array of 0s, 1s and 2s
+
 ## Day 02 : 
 ### Solved Some Problems on arrays
 * Find Missing And Repeating
 * Merge Intervals
 * Next Permutation
+
 ## Day 03 : 
 ### Learned basics of strings
 ### Solved Some Problems
 * Smallest subarray with sum greater than x
 * Trapping Rain Water
+
 ## Day 04 :
 ### Practiced problems of strings
 * Minimum swaps and K together
@@ -64,12 +67,14 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Longest Palindrome in a String
 * Longest Prefix Suffix
 * count and say
+
 ## Day 05 : 
 ### Learned sorting
 ### Solved Some Problems
 * Count triplets with sum smaller than X
 * Maximum Sum Circular Subarray
 * Palindromic Array
+
 ## Day 06 : 
 ### Praciced some problems of sorting
 * Chocolate Distribution Problem
@@ -77,6 +82,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Merge Without Extra Space
 * Sort by Set Bit Count
 * Three way partitioning
+
 ## Day 07 :
 ### Learned searching
 ### Done some practice of slinding window technique
@@ -86,6 +92,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Max Sum Subarray of size K
 * Maximum sum of subarray less than or equal to x
 * Subarray with given sum
+
 ## Day 08 : 
 ### Solved problems on searching
 * Find a Fixed Point (Value equal to index) in a given array
@@ -96,6 +103,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Summer heat (i will post here after end of contest)
 ### Appeared for Codeforces Educational Round 110
 * A. Fair Play off
+
 ## Day 09 : 
 ### Solved a question of CodeChef june long challenge
 * Bella ciao (i will post here after end of contest)
@@ -108,3 +116,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Mean of range in array
 * Geek and his Marks
 * Nitika and her queries
+
+## Day 10 : 
+### Started hashing but can't understand cause of lack knowledge of OOPS.
+### Started little bit OOPS in C++
