@@ -130,3 +130,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Implemanted own open address hashing HashSet class which works for non negative integers
 ### Added README.md in the hashing folder
 ### Learned set and unordered set in C++
+### Done some problems on strings
+* Fill Longest Prefix Suffix Array
+* Longest Common Prefix
+* Min Number of Flips
+* Roman Number to Integer
