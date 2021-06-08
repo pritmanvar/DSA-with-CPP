@@ -11,9 +11,9 @@
 | Data Structure | Add/Insert | Remove/Delete | Access/Get | Search/Contains | Space Complexity |
 | --- | --- | --- | --- | --- | --- |
 | Array | ```O(n)``` | ```O(n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
+| HashSet | ```O(1)``` | ```O(1)``` |``` -``` | ```O(1)``` | ```O(n)``` |
 <!-- | Queue | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Stack | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
-| HashSet | ```O(1)``` | ```O(1)``` | - | ```O(1)``` | ```O(n)``` |
 | HashMap | ```O(1)``` | ```O(1)``` | ```O(1)``` | ```O(1)``` | ```O(n)``` |
 | Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Doubly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
@@ -123,5 +123,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 11 : 
 ### Learned basics of OOPS in cpp
-### revised chain hashing and open address hashing
-* Implemanted own chain hashing class which works for non negative integers
+### Revised chain hashing and open address hashing HashSet
+### Implemanted own chain hashing HashSet class which works for non negative integers
+
+## Day 12 : 
+### Implemanted own open address hashing HashSet class which works for non negative integers
