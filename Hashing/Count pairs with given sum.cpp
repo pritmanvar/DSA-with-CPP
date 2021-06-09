@@ -5,7 +5,7 @@
         // so we will increment answer by count of k-arr[i] 
         // because current element can make a pair with all element which are equal to k-arr[i]
         int answer = 0;
-        unordered_map<int,int> track;
+        unordered_map<int,int> track; 
         for(int i = 0; i < n; i++){
             answer += track[k - arr[i]];
             track[arr[i]]++;
