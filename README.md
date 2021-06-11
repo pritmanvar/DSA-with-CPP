@@ -145,3 +145,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Count pairs with given sum
 * Longest consecutive subsequence
 * Array Subset of another array
+
+## Day 14
+### Solved some questions on hashing
+* Find All Four Sum Numbers
+* Group Anagrams
+* Second most repeated string in a sequence
