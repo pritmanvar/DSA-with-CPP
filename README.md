@@ -147,6 +147,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Array Subset of another array
 
 ## Day 14
+### Contributed to LGM SOC'21 and learnt the basic etiquette of contributing to open source
 ### Solved some questions on hashing
 * Find All Four Sum Numbers
 * Group Anagrams
