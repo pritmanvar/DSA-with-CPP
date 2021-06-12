@@ -152,3 +152,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Find All Four Sum Numbers
 * Group Anagrams
 * Second most repeated string in a sequence
+
+## Day 15
+### Solved Some Questions
+* Largest subarray of 0's and 1's
+* Count distinct elements in every window
+* Zero Sum Subarrays
