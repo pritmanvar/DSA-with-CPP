@@ -160,7 +160,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Zero Sum Subarrays
 
 ## Day 16
-### Created Math tricks folder and added some basic concepts like:
+### Created Math folder and added some basic concepts like:
 * binary exponention
 * gcd using euclidean
 * gcd of arrays
