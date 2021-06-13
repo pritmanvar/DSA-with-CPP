@@ -158,3 +158,11 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Largest subarray of 0's and 1's
 * Count distinct elements in every window
 * Zero Sum Subarrays
+
+## Day 16
+### Created Math tricks folder and added some basic concepts like:
+* binary exponention
+* gcd using euclidean
+* gcd of arrays
+### Solved a question of CodeChef june long challenge
+* Bitwise Tuples (i will post here after end of contest)
