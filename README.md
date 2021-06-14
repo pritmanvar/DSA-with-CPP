@@ -166,3 +166,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 * gcd of arrays
 ### Solved a question of CodeChef june long challenge
 * Bitwise Tuples (i will post here after end of contest)
+
+## Day 17
+### Revised Previous Topics
