@@ -169,3 +169,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 17
 ### Revised Previous Topics
+
+## Day 18
+### Learned Basics of Recursion.
+### Added solved problems in the codechef june long challenge 
