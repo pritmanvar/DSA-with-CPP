@@ -173,3 +173,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 ## Day 18
 ### Learned Basics of Recursion.
 ### Added solved problems in the codechef june long challenge 
+### Solved Problems of Hashing
+* Subarray with 0 sum
+* Equivalent Sub-Arrays
