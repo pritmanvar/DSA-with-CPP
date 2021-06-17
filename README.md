@@ -187,3 +187,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Rotate Image
 * Subarray Sum Equals K
 * Two Sum
+### solved some problems on recursion and backtracking
+* Permutations of a given string
+* Rat in a Maze Problem - I
