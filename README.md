@@ -179,3 +179,11 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 19
 ### learned about advance recursion
+
+## Day 20
+### Learned about backtracking
+### solved some problems on array on leetcode
+* Product of Array Except Self
+* Rotate Image
+* Subarray Sum Equals K
+* Two Sum
