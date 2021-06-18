@@ -190,3 +190,10 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### solved some problems on recursion and backtracking
 * Permutations of a given string
 * Rat in a Maze Problem - I
+
+## Day 21
+### solved some problems on array on leetcode
+* Largest Rectangle in Histogram
+* Maximum Product Subarray
+* Move Zeroes
+
