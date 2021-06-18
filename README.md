@@ -196,4 +196,5 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Largest Rectangle in Histogram
 * Maximum Product Subarray
 * Move Zeroes
-
+### solved a problems on recursion and backtracking
+* N-Queens
