@@ -198,3 +198,15 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Move Zeroes
 ### solved a problems on recursion and backtracking
 * N-Queens
+
+## Day 22
+### solved some problems on array on leetcode
+* First Missing Positive
+* Find All Numbers Disappeared in an Array
+* Container With Most Water
+* Best Time to Buy and Sell Stock
+* Valid Sudoku
+### solved a problems on recursion and backtracking
+* Combination Sum
+* Largest number in K swaps
+* N-Queens II
