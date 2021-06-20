@@ -214,3 +214,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Day 23
 ### solved a problems on recursion and backtracking 
 * Sudoku Solver
+### Appeared for CodeChef June cook-off and solved 4 questions
+* Chefland Visa
+* ICPC Balloons
+* The Wave
+* XOR Folding
