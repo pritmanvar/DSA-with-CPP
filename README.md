@@ -210,3 +210,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Combination Sum
 * Largest number in K swaps
 * N-Queens II
+
+### Day 23
+### solved a problems on recursion and backtracking 
+* Sudoku Solver
