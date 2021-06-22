@@ -211,7 +211,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Largest number in K swaps
 * N-Queens II
 
-### Day 23
+## Day 23
 ### solved a problems on recursion and backtracking 
 * Sudoku Solver
 ### Appeared for CodeChef June cook-off and solved 4 questions
@@ -219,3 +219,11 @@ This will be the repository for C++ topic wise questions, practice questions and
 * ICPC Balloons
 * The Wave
 * XOR Folding
+
+## Day 24
+### Learned Matrix
+### Solved some problems on leetcode
+* Subsets
+* Spiral Matrix
+* Set Matrix Zeroes
+* Missing Number
