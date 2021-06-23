@@ -230,3 +230,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 25
 ### Done some revision of arrays
+* Wildcard string matching
+* Row with max 1
+* Sorted matrix
