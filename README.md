@@ -233,3 +233,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Wildcard string matching
 * Row with max 1
 * Sorted matrix
+
+## Day 26
+### Solved a problem of hashing which i can't solve before and tried others too but can't solve that
+* Smallest distinct window
