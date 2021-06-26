@@ -237,3 +237,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 ## Day 26
 ### Solved a problem of hashing which i can't solve before and tried others too but can't solve that
 * Smallest distinct window
+
+## Day 27
+### Learned about memorization and tabulation in dynamic programming.
