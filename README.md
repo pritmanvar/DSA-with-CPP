@@ -243,3 +243,10 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Appeared for CodeChef June lunch time and solved 1 questions.
 * False Number
 
+## Day 28
+### Appeared for CodeChef June Starters and solved 4 questions.
+* Cyclic Quadrilateral
+* Chess Match
+* Total Correct Submissions
+* Chef and Queries
+
