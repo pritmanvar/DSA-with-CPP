@@ -249,4 +249,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Chess Match
 * Total Correct Submissions
 * Chef and Queries
-
+### Added README.md in Dynamic Programming
+### Solved some problems of dynamic programming
+* Word Wrap
+* Edit Distance
+* Word Break
