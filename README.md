@@ -240,3 +240,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 27
 ### Learned about memorization and tabulation in dynamic programming.
+### Appeared for CodeChef June lunch time and solved 1 questions.
+* False Number
+
