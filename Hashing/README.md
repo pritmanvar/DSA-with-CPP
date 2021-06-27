@@ -37,3 +37,7 @@ have unique keys. An alternative is to use separate chained hash tables.</p><br>
     <td align = "center">Interval between probes is computed by another hash function</th>
   </tr>
 </table>
+
+<h4 align = "center"> These articles are taken from </h4>
+<h3 align = "center"> Data Structures And Algorithms Made Easy </h3>
+<h3 align = "center"> By Narasimha Karumanchi </h3>
