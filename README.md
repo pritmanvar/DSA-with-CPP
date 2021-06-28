@@ -11,7 +11,10 @@
 | Data Structure | Add/Insert | Remove/Delete | Access/Get | Search/Contains | Space Complexity |
 | --- | --- | --- | --- | --- | --- |
 | Array | ```O(n)``` | ```O(n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
-| HashSet | ```O(1)``` | ```O(1)``` |``` -``` | ```O(1)``` | ```O(n)``` |
+| Set | ```O(logn)``` | ```O(logn)``` |``` -``` | ```O(logn)``` | ```O(n)``` |
+| Unordered Set | ```O(1)Average O(n)Worst``` | ```O(1)Average O(n)Worst``` |``` -``` | ```O(1)Average O(n)Worst``` | ```O(n)``` |
+| Map | ```O(logn)``` | ```O(logn)``` |``` -``` | ```O(logn)``` | ```O(n)``` |
+| Unordered Map | ```O(1)Average O(n)Worst``` | ```O(1)Average O(n)Worst``` |``` -``` | ```O(1)Average O(n)Worst``` | ```O(n)``` |
 <!-- | Queue | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Stack | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | HashMap | ```O(1)``` | ```O(1)``` | ```O(1)``` | ```O(1)``` | ```O(n)``` |
