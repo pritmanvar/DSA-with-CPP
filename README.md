@@ -17,7 +17,6 @@
 | Unordered Map | ```O(1)Average O(n)Worst``` | ```O(1)Average O(n)Worst``` |``` -``` | ```O(1)Average O(n)Worst``` | ```O(n)``` |
 <!-- | Queue | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Stack | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
-| HashMap | ```O(1)``` | ```O(1)``` | ```O(1)``` | ```O(1)``` | ```O(n)``` |
 | Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Doubly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Circular Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
@@ -260,3 +259,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 29
 ### Realized that my knowledge of dp is not sufficient to solve problems of DP. So started Aditya Verma's DP Playlist.
+### Solved a problem of hash
+* Longest subarray with sum divisible by K
+
+ ## Day 30
+ ### Continued with Aditya Verma's DP Playlist.
