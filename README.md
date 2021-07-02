@@ -262,5 +262,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved a problem of hash
 * Longest subarray with sum divisible by K
 
- ## Day 30
- ### Continued with Aditya Verma's DP Playlist.
+## Day 30
+### Continued with Aditya Verma's DP Playlist.
+
+## Day 31
+### Felt that right now my level is not enough good to understand DP so skiped it for latter and started LinkedList.
