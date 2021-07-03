@@ -264,6 +264,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 30
 ### Continued with Aditya Verma's DP Playlist.
+### Appeared for CodeChef july long challenge and solved 1 questions.
+* XxOoRr
 
 ## Day 31
 ### Felt that right now my level is not enough good to understand DP so skiped it for latter and started LinkedList.
+### Implemented basic function of LinkedList.
