@@ -269,6 +269,10 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 31
 ### Felt that right now my level is not enough good to understand DP so skiped it for latter and started LinkedList.
-### Implemented basic function of LinkedList.
+### Learned and Implemented basic functions of singly LinkedList.
 ### Appeared for Codeforces Round #729 (Div. 2) and solved 1 question.
 * Odd Set
+
+## Day 32
+### Learned about doubly linkedlist and circular linkedlist
+### Implemented basic functions of doubly LinkedList.
