@@ -279,3 +279,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 33
 ### Implemented basic functions of circular LinkedList.
+### Solved following problems
+* Smallest window in a string containing all the characters of another string
+* Search a 2D Matrix
+* Find the string in grid
+* Determinant of a Matrix
+* Boolean Matrix
