@@ -31,7 +31,7 @@ Node* add_begin(Node* head, int data){
         return temp;
     
     Node* cpy = head->next; // adding node at the next of head
-    head->next = temp;
+    head->next = temp; 
     temp->next = cpy;
 
     // swaping data of head and temp so now data of new node will stored by head 
