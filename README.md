@@ -285,3 +285,15 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Find the string in grid
 * Determinant of a Matrix
 * Boolean Matrix
+
+## Day 34
+### Solved following problems
+* Make Matrix Beautiful
+* Reverse a Linked List in groups of given size
+* Detect Loop in linked list
+* Remove loop in Linked List
+* Find length of Loop
+* Rotate a Linked List
+* Remove duplicate element from sorted Linked List
+* Remove duplicates from an unsorted linked list
+* Add 1 to a number represented as linked list
