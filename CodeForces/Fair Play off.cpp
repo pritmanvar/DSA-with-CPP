@@ -9,7 +9,7 @@ int main()
     for (int z = 1; z <= t; z++) 
     {
         int s[4] = {0};
-        int m1 = 0;
+        int m1 = 0; 
         for(int i = 0; i < 4; i++){
             cin >> s[i];
           
