@@ -296,3 +296,10 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Remove duplicate element from sorted Linked List](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Remove%20duplicate%20element%20from%20sorted%20Linked%20List.cpp)
 * [Remove duplicates from an unsorted linked list](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Remove%20duplicates%20from%20an%20unsorted%20linked%20list.cpp)
 * [Add 1 to a number represented as linked list](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Add%201%20to%20a%20number%20represented%20as%20linked%20list.cpp)
+
+## Day 35
+### Appered in Codeforces Round #730 (Div. 2) but can't solve anyting
+### Solved followoing problems
+* [Add two numbers represented by linked lists](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Add%20two%20numbers%20represented%20by%20linked%20lists.cpp)
+* [Intersection of two sorted Linked lists](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Intersection%20of%20two%20sorted%20Linked%20lists.cpp)
+* [Intersection Point in Y Shapped Linked Lists](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Intersection%20Point%20in%20Y%20Shapped%20Linked%20Lists.cpp)
