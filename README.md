@@ -46,78 +46,76 @@ This will be the repository for C++ topic wise questions, practice questions and
 ## Day 01 : 
 ### Learned basics of arrays
 ### Solved Some Problems
-* Find the Duplicate Number
-* K-th element of two sorted Arrays
-* Sort an array of 0s, 1s and 2s
+* [Find the Duplicate Number](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Find%20the%20Duplicate%20Number.cpp)
+* [K-th element of two sorted Arrays](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/K-th%20element%20of%20two%20sorted%20Arrays.cpp)
+* [Sort an array of 0s, 1s and 2s](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Sort%20an%20array%20of%200s%2C%201s%20and%202s.cpp)
 
 ## Day 02 : 
 ### Solved Some Problems on arrays
-* Find Missing And Repeating
-* Merge Intervals
-* Next Permutation
+* [Find Missing And Repeating](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Find%20Missing%20And%20Repeating.cpp)
+* [Merge Intervals](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Merge%20Intervals.cpp)
+* [Next Permutation](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Next%20Permutation.cpp)
 
 ## Day 03 : 
 ### Learned basics of strings
 ### Solved Some Problems
-* Smallest subarray with sum greater than x
-* Trapping Rain Water
+* [Smallest subarray with sum greater than x](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Smallest%20subarray%20with%20sum%20greater%20than%20x.cpp)
+* [Trapping Rain Water](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Trapping%20Rain%20Water.cpp)
 
 ## Day 04 :
 ### Practiced problems of strings
-* Minimum swaps and K together
-* Factorials of large numbers
-* Longest Palindrome in a String
-* Longest Prefix Suffix
-* count and say
+* [Minimum swaps and K together](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Minimum%20swaps%20and%20K%20together.cpp)
+* [Factorials of large numbers](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Strings/Factorials%20of%20large%20numbers.cpp)
+* [Longest Palindrome in a String](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Strings/Longest%20Palindrome%20in%20a%20String.cpp)
+* [Longest Prefix Suffix](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Strings/Longest%20Prefix%20Suffix.cpp)
+* [count and say](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Strings/count%20and%20say.cpp)
 
 ## Day 05 : 
 ### Learned sorting
 ### Solved Some Problems
-* Count triplets with sum smaller than X
-* Maximum Sum Circular Subarray
-* Palindromic Array
+* [Count triplets with sum smaller than X](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Count%20triplets%20with%20sum%20smaller%20than%20X%20.cpp)
+* [Maximum Sum Circular Subarray](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Maximum%20Sum%20Circular%20Subarray.cpp)
+* [Palindromic Array](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Palindromic%20Array.java)
 
 ## Day 06 : 
 ### Praciced some problems of sorting
-* Chocolate Distribution Problem
-* Median of Two sorted arrays
-* Merge Without Extra Space
-* Sort by Set Bit Count
-* Three way partitioning
+* [Chocolate Distribution Problem](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Sorting/Chocolate%20Distribution%20Problem.cpp)
+* [Median of Two sorted arrays](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Sorting/Median%20of%20Two%20sorted%20arrays.cpp)
+* [Merge Without Extra Space](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Sorting/Merge%20Without%20Extra%20Space.cpp)
+* [Sort by Set Bit Count](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Sorting/Sort%20by%20Set%20Bit%20Count.cpp)
+* [Three way partitioning](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Sorting/Three%20way%20partitioning.cpp)
 
 ## Day 07 :
 ### Learned searching
 ### Done some practice of slinding window technique
-* Count Occurences of Anagrams
-* Length of the longest substring
-* Longest Subarray with atmost K Even elements
-* Max Sum Subarray of size K
-* Maximum sum of subarray less than or equal to x
-* Subarray with given sum
+* [Count Occurences of Anagrams](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Window%20Sliding/Count%20Occurences%20of%20Anagrams.cpp)
+* [Length of the longest substring](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Window%20Sliding/Length%20of%20the%20longest%20substring.cpp)
+* [Longest Subarray with atmost K Even elements](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Window%20Sliding/Longest%20Subarray%20with%20atmost%20K%20Even%20elements.cpp)
+* [Max Sum Subarray of size K](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Window%20Sliding/Max%20Sum%20Subarray%20of%20size%20K.cpp)
+* [Maximum sum of subarray less than or equal to x](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Window%20Sliding/Maximum%20sum%20of%20subarray%20less%20than%20or%20equal%20to%20x.cpp)
+* [Subarray with given sum](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Window%20Sliding/Subarray%20with%20given%20sum.cpp)
 
 ## Day 08 : 
 ### Solved problems on searching
-* Find a Fixed Point (Value equal to index) in a given array
-* Find first and last positions of an element in a sorted array
-* find a pair with a given difference
-* Kth smallest number again
+* [Value equal to index value](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Searching/Value%20equal%20to%20index%20value.cpp)
+* [First and last occurrences of x](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Searching/First%20and%20last%20occurrences%20of%20x.cpp)
+* [Find a pair with a given difference](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Searching/Find%20Pair%20Given%20Difference.cpp)
+* [Search in Rotated Sorted Array](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Searching/Search%20in%20Rotated%20Sorted%20Array.cpp)
+* [Find common elements In 3 sorted arrays](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Searching/find%20common%20elements%20In%203%20sorted%20arrays.cpp)
 ### Appeared for CodeChef June Long Challenge and solved 1 question
-* Summer heat (i will post here after end of contest)
+* [Summer heat](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Summer%20Heat.cpp)
 ### Appeared for Codeforces Educational Round 110
-* A. Fair Play off
+* [A. Fair Play off](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/Fair%20Play%20off.cpp)
 
 ## Day 09 : 
 ### Solved a question of CodeChef june long challenge
-* Bella ciao (i will post here after end of contest)
+* [Bella ciao](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Bella%20ciao.cpp)
 ### Solved some questions on prefixsum technique
-* Max Sum Subarray of size K
-* Longest Equal Prefix
-* Max value after m range operation
-* Subarray with given sum
-* Equilibrium Point
-* Mean of range in array
-* Geek and his Marks
-* Nitika and her queries
+* [Longest Equal Prefix](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Prefix%20Sum/Longest%20Equal%20Prefix.cpp)
+* [Max value after m range operation](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Prefix%20Sum/Max%20value%20after%20m%20range%20operation.cpp)
+* [Equilibrium Point](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Prefix%20Sum/Equilibrium%20Point.cpp)
+* [Mean of range in array](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Prefix%20Sum/Mean%20of%20range%20in%20array.cpp)
+* [Nitika and her queries](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Prefix%20Sum/Nitika%20and%20her%20queries.cpp)
 
 ## Day 10 : 
 ### Started hashing but can't understand cause of lack knowledge of OOPS.
@@ -126,48 +124,48 @@ This will be the repository for C++ topic wise questions, practice questions and
 ## Day 11 : 
 ### Learned basics of OOPS in cpp
 ### Revised chain hashing and open address hashing HashSet
-### Implemanted own chain hashing HashSet class which works for non negative integers
+### [Implemanted own chain hashing HashSet class which works for non negative integers](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/ChainHashing.cpp)
 
 ## Day 12 : 
-### Implemanted own open address hashing HashSet class which works for non negative integers
-### Added README.md in the hashing folder
+### [Implemanted own open address hashing HashSet class which works for non negative integers](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/OpenAddressHashing.cpp)
+### [Added README.md in the hashing folder](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/README.md)
 ### Learned set and unordered set in C++
 ### Done some problems on strings
-* Fill Longest Prefix Suffix Array
-* Longest Common Prefix
-* Min Number of Flips
-* Roman Number to Integer
+* [Fill Longest Prefix Suffix Array](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Strings/Fill%20Longest%20Prefix%20Suffix%20Array.cpp)
+* [Longest Common Prefix](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Strings/Longest%20Common%20Prefix.cpp)
+* [Min Number of Flips](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Strings/Min%20Number%20of%20Flips.cpp)
+* [Roman Number to Integer](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Strings/Roman%20Number%20to%20Integer.cpp)
 ### Solved a question of CodeChef june long challenge
-* Shortest Route (i will post here after end of contest)
+* [Shortest Route](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Shortest%20Route.cpp)
 
 ## Day 13 : 
 ### Get introduced with map and unordered_map
 ### Solved some problems on hashing
-* Union of two arrays
-* Count pairs with given sum
-* Longest consecutive subsequence
-* Array Subset of another array
+* [Union of two arrays](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Union%20of%20two%20arrays.cpp)
+* [Count pairs with given sum](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Count%20pairs%20with%20given%20sum.cpp)
+* [Longest consecutive subsequence](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Longest%20consecutive%20subsequence.cpp)
+* [Array Subset of another array](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Array%20Subset%20of%20another%20array.cpp)
 
 ## Day 14
 ### Contributed to LGM SOC'21 and learnt the basic etiquette of contributing to open source
 ### Solved some questions on hashing
-* Find All Four Sum Numbers
-* Group Anagrams
-* Second most repeated string in a sequence
+* [Find All Four Sum Numbers](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Find%20All%20Four%20Sum%20Numbers.cpp)
+* [Group Anagrams](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Group%20Anagrams.cpp)
+* [Second most repeated string in a sequence](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Second%20most%20repeated%20string%20in%20a%20sequence.cpp)
 
 ## Day 15
 ### Solved Some Questions
-* Largest subarray of 0's and 1's
-* Count distinct elements in every window
-* Zero Sum Subarrays
+* [Largest subarray of 0's and 1's](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Largest%20subarray%20of%200's%20and%201's.cpp)
+* [Count distinct elements in every window](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Count%20distinct%20elements%20in%20every%20window.cpp)
+* [Zero Sum Subarrays](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Zero%20Sum%20Subarrays.cpp)
 
 ## Day 16
 ### Created Math folder and added some basic concepts like:
-* binary exponention
-* gcd using euclidean
-* gcd of arrays
+* [binary exponention](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Math/binary_exponention.cpp)
+* [gcd using euclidean](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Math/gcd_by_euclidean.cpp)
+* [gcd of arrays](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Math/gcd_of_array.cpp)
 ### Solved a question of CodeChef june long challenge
-* Bitwise Tuples (i will post here after end of contest)
+* [Bitwise Tuples](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Bitwise%20Tuples.cpp)
 
 ## Day 17
 ### Revised Previous Topics
@@ -176,8 +174,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Learned Basics of Recursion.
 ### Added solved problems in the codechef june long challenge 
 ### Solved Problems of Hashing
-* Subarray with 0 sum
-* Equivalent Sub-Arrays
+* [Subarray with 0 sum](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Subarray%20with%200%20sum.cpp)
+* [Equivalent Sub-Arrays](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Equivalent%20Sub-Arrays.cpp)
 
 ## Day 19
 ### learned about advance recursion
@@ -185,115 +183,116 @@ This will be the repository for C++ topic wise questions, practice questions and
 ## Day 20
 ### Learned about backtracking
 ### solved some problems on array on leetcode
-* Product of Array Except Self
-* Rotate Image
-* Subarray Sum Equals K
-* Two Sum
+* [Product of Array Except Self](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Product%20of%20Array%20Except%20Self.cpp)
+* [Rotate Image](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Rotate%20Image.cpp)
+* [Subarray Sum Equals K](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Subarray%20Sum%20Equals%20K.cpp)
+* [Two Sum](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Two%20Sum.cpp)
 ### solved some problems on recursion and backtracking
-* Permutations of a given string
-* Rat in a Maze Problem - I
+* [Permutations of a given string](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/Permutations%20of%20a%20given%20string.cpp)
+* [Rat in a Maze Problem - I](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/Rat%20in%20a%20Maze%20Problem%20-%20I.cpp)
 
 ## Day 21
 ### solved some problems on array on leetcode
-* Largest Rectangle in Histogram
-* Maximum Product Subarray
-* Move Zeroes
+* [Largest Rectangle in Histogram](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Largest%20Rectangle%20in%20Histogram.cpp)
+* [Maximum Product Subarray](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Maximum%20Product%20Subarray.cpp)
+* [Move Zeroes](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Move%20Zeroes.cpp)
 ### solved a problems on recursion and backtracking
-* N-Queens
+* [N-Queens](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/N-Queens.cpp)
 
 ## Day 22
 ### solved some problems on array on leetcode
-* First Missing Positive
-* Find All Numbers Disappeared in an Array
-* Container With Most Water
-* Best Time to Buy and Sell Stock
-* Valid Sudoku
+* [First Missing Positive](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/First%20Missing%20Positive.cpp)
+* [Find All Numbers Disappeared in an Array](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)
+* [Container With Most Water](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Container%20With%20Most%20Water.cpp)
+* [Best Time to Buy and Sell Stock](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
+* [Valid Sudoku](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Valid%20Sudoku.cpp)
 ### solved a problems on recursion and backtracking
-* Combination Sum
-* Largest number in K swaps
-* N-Queens II
+* [Combination Sum](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/Combination%20Sum.cpp)
+* [Largest number in K swaps](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/Largest%20number%20in%20K%20swaps.cpp)
+* [N-Queens II](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/N-Queens%20II.cpp)
 
 ## Day 23
 ### solved a problems on recursion and backtracking 
-* Sudoku Solver
+* [Sudoku Solver](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/Sudoku%20Solver.cpp)
 ### Appeared for CodeChef June cook-off and solved 4 questions
-* Chefland Visa
-* ICPC Balloons
-* The Wave
-* XOR Folding
+* [Chefland Visa](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Chefland%20Visa.cpp)
+* [ICPC Balloons](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/ICPC%20Balloons.cpp)
+* [The Wave](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/The%20Wave.cpp)
+* [XOR Folding](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/XOR%20Folding.cpp)
 
 ## Day 24
 ### Learned Matrix
 ### Solved some problems on leetcode
-* Subsets
-* Spiral Matrix
-* Set Matrix Zeroes
-* Missing Number
+* [Subsets](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/Subsets.cpp)
+* [Spiral Matrix](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Spiral%20Matrix.cpp)
+* [Set Matrix Zeroes](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Set%20Matrix%20Zeroes.cpp)
+* [Missing Number](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Missing%20Number.cpp)
 
 ## Day 25
 ### Done some revision of arrays
-* Wildcard string matching
-* Row with max 1
-* Sorted matrix
+### Solved following problems
+* [Wildcard string matching](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/Wildcard%20string%20matching.cpp)
+* [Row with max 1](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Row%20with%20max%201.cpp)
+* [Sorted matrix](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Sorted%20matrix.cpp)
 
 ## Day 26
 ### Solved a problem of hashing which i can't solve before and tried others too but can't solve that
-* Smallest distinct window
+* [Smallest distinct window](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Smallest%20distinct%20window.cpp)
 
 ## Day 27
 ### Learned about memorization and tabulation in dynamic programming.
 ### Appeared for CodeChef June lunch time and solved 1 questions.
-* False Number
+* [False Number](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/False%20Number.cpp)
 
 ## Day 28
 ### Appeared for CodeChef June Starters and solved 4 questions.
-* Cyclic Quadrilateral
-* Chess Match
-* Total Correct Submissions
-* Chef and Queries
-### Added README.md in Dynamic Programming
+* [Cyclic Quadrilateral](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Cyclic%20Quadrilateral.cpp)
+* [Chess Match](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Chess%20Match.cpp)
+* [Total Correct Submissions](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Total%20Correct%20Submissions.cpp)
+* [Chef and Queries](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Chef%20and%20Queries.cpp)
+### [Added README.md in Dynamic Programming](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Dynamic%20Programming/README.md)
 ### Solved some problems of dynamic programming
-* Word Wrap
-* Edit Distance
-* Word Break
+* [Word Wrap](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Dynamic%20Programming/Word%20Wrap.cpp)
+* [Edit Distance](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Dynamic%20Programming/Edit%20Distance.cpp)
+* [Word Break](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Dynamic%20Programming/Word%20Break.cpp)
 
 ## Day 29
 ### Realized that my knowledge of dp is not sufficient to solve problems of DP. So started Aditya Verma's DP Playlist.
 ### Solved a problem of hash
-* Longest subarray with sum divisible by K
+* [Longest subarray with sum divisible by K](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Longest%20subarray%20with%20sum%20divisible%20by%20K.cpp)
 
 ## Day 30
 ### Continued with Aditya Verma's DP Playlist.
 ### Appeared for CodeChef july long challenge and solved 1 question.
-* XxOoRr
+* [XxOoRr]
 
 ## Day 31
 ### Felt that right now my level is not enough good to understand DP so skiped it for latter and started LinkedList.
-### Learned and Implemented basic functions of singly LinkedList.
+### [Learned and Implemented basic functions of singly LinkedList.](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/basic%20functions%20of%20singly%20linkedlist.cpp)
 ### Appeared for Codeforces Round #729 (Div. 2) and solved 1 question.
-* Odd Set
+* [Odd Set](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/Odd%20Set.cpp)
 
 ## Day 32
 ### Learned about doubly linkedlist and circular linkedlist
-### Implemented basic functions of doubly LinkedList.
+### [Implemented basic functions of doubly LinkedList.](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/basic%20functions%20of%20doubly%20linkedlist.cpp)
 
 ## Day 33
-### Implemented basic functions of circular LinkedList.
+### [Implemented basic functions of circular LinkedList.](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/basic%20functions%20of%20circular%20linkedlist.cpp)
 ### Solved following problems
-* Smallest window in a string containing all the characters of another string
-* Search a 2D Matrix
-* Find the string in grid
-* Determinant of a Matrix
-* Boolean Matrix
+* [Smallest window in a string containing all the characters of another string](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Smallest%20window%20in%20a%20string%20containing%20all%20the%20characters%20of%20another%20string.cpp)
+* [Search a 2D Matrix](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Searching/Search%20a%202D%20Matrix.cpp)
+* [Find the string in grid](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/Find%20the%20string%20in%20grid.cpp)
+* [Determinant of a Matrix](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/Determinant%20of%20a%20Matrix.cpp)
+* [Boolean Matrix](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Boolean%20Matrix.cpp)
 
 ## Day 34
 ### Solved following problems
-* Make Matrix Beautiful
-* Reverse a Linked List in groups of given size
-* Detect Loop in linked list
-* Remove loop in Linked List
-* Find length of Loop
-* Rotate a Linked List
-* Remove duplicate element from sorted Linked List
-* Remove duplicates from an unsorted linked list
-* Add 1 to a number represented as linked list
+* [Make Matrix Beautiful](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Make%20Matrix%20Beautiful.cpp)
+* [Reverse a Linked List in groups of given size](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Reverse%20a%20Linked%20List%20in%20groups%20of%20given%20size.cpp)
+* [Detect Loop in linked list](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Detect%20Loop%20in%20linked%20list.cpp)
+* [Remove loop in Linked List](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Remove%20loop%20in%20Linked%20List.cpp)
+* [Find length of Loop](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Find%20length%20of%20Loop.cpp)
+* [Rotate a Linked List](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Rotate%20a%20Linked%20List.cpp)
+* [Remove duplicate element from sorted Linked List](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Remove%20duplicate%20element%20from%20sorted%20Linked%20List.cpp)
+* [Remove duplicates from an unsorted linked list](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Remove%20duplicates%20from%20an%20unsorted%20linked%20list.cpp)
+* [Add 1 to a number represented as linked list](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Add%201%20to%20a%20number%20represented%20as%20linked%20list.cpp)
