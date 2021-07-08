@@ -1,7 +1,7 @@
 // Problem Link : https://practice.geeksforgeeks.org/problems/subsets-1587115621/1#
     
     vector<string> ans; // to store answer
-    unordered_set<string> st; // to avoid duplicates
+    unordered_set<string> st; // to avoid duplicates 
     
     void solve(vector<int> arr, int n, string current){
         if(n == 0){ // if we have processed whole arr then add that in ans and return that
