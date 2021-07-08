@@ -303,3 +303,10 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Add two numbers represented by linked lists](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Add%20two%20numbers%20represented%20by%20linked%20lists.cpp)
 * [Intersection of two sorted Linked lists](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Intersection%20of%20two%20sorted%20Linked%20lists.cpp)
 * [Intersection Point in Y Shapped Linked Lists](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Intersection%20Point%20in%20Y%20Shapped%20Linked%20Lists.cpp)
+
+## Day 36
+### Upsolved 2 problems from Codeforces Round #730 (Div. 2)
+* [A. Exciting Bets](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/Exciting%20Bets.cpp)
+* [B - Customising the Track](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/Customising%20the%20Track.cpp)
+### Solved following problem
+* [Unique Subsets](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/Unique%20Subsets.cpp)
