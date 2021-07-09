@@ -310,3 +310,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [B - Customising the Track](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/Customising%20the%20Track.cpp)
 ### Solved following problem
 * [Unique Subsets](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/Unique%20Subsets.cpp)
+
+## Day 37
+### Solved Following Problems
