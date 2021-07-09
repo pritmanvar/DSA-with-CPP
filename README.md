@@ -313,3 +313,12 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 37
 ### Solved Following Problems
+* [Middle of the Linked List](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Middle%20of%20the%20Linked%20List.cpp)
+* [Check If Circular Linked List](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Check%20If%20Circular%20Linked%20List.cpp)
+* [Split a Circular Linked List into two halves](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Split%20a%20Circular%20Linked%20List%20into%20two%20halves.cpp)
+* [Check if Linked List is Palindrome](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Check%20if%20Linked%20List%20is%20Palindrome.cpp)
+* [Reverse a Doubly Linked List](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Reverse%20a%20Doubly%20Linked%20List.cpp)
+* [Given a linked list of 0s, 1s and 2s, sort it.](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Given%20a%20linked%20list%20of%200s%2C%201s%20and%202s%2C%20sort%20it.cpp)
+* [Clone a linked list with next and random pointer](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Clone%20a%20linked%20list%20with%20next%20and%20random%20pointer.cpp)
+* [Multiply two linked lists](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Multiply%20two%20linked%20lists.cpp)
+* [Delete nodes having greater value on right](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Delete%20nodes%20having%20greater%20value%20on%20right.cpp)
