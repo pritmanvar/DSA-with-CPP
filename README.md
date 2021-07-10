@@ -298,7 +298,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Add 1 to a number represented as linked list](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Add%201%20to%20a%20number%20represented%20as%20linked%20list.cpp)
 
 ## Day 35
-### Appered in Codeforces Round #730 (Div. 2) but can't solve anyting
+### Appeared in Codeforces Round #730 (Div. 2) but can't solve anyting
 ### Solved followoing problems
 * [Add two numbers represented by linked lists](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Add%20two%20numbers%20represented%20by%20linked%20lists.cpp)
 * [Intersection of two sorted Linked lists](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Intersection%20of%20two%20sorted%20Linked%20lists.cpp)
@@ -322,3 +322,16 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Clone a linked list with next and random pointer](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Clone%20a%20linked%20list%20with%20next%20and%20random%20pointer.cpp)
 * [Multiply two linked lists](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Multiply%20two%20linked%20lists.cpp)
 * [Delete nodes having greater value on right](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Delete%20nodes%20having%20greater%20value%20on%20right.cpp)
+
+## Day 38
+### Appeared for Codeforces Round #731 (Div. 3) and solved 4 problems
+* [A - Shortest Path with Obstacle](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20Shortest%20Path%20with%20Obstacle.cpp)
+* [B - Alphabetical Strings](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B%20-%20Alphabetical%20Strings.cpp)
+* [C - Pair Programming](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/C%20-%20Pair%20Programming.cpp)
+* [D - Co-growing Sequence](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/D%20-%20Co-growing%20Sequence.cpp)
+### Solved Following Problems
+* [Segregate even and odd nodes in a Link List](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Segregate%20even%20and%20odd%20nodes%20in%20a%20Link%20List.cpp)
+* [Nth node from end of linked list](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Nth%20node%20from%20end%20of%20linked%20list.cpp)
+* [Swap Kth nodes from ends](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Swap%20Kth%20nodes%20from%20ends.cpp)
+* [Pairwise swap of nodes in LinkeList](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Pairwise%20swap%20of%20nodes%20in%20LinkeList.cpp)
+* [Merge K sorted linked lists](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Merge%20K%20sorted%20linked%20lists.cpp)
