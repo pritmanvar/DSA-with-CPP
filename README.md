@@ -335,3 +335,10 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Swap Kth nodes from ends](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Swap%20Kth%20nodes%20from%20ends.cpp)
 * [Pairwise swap of nodes in LinkeList](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Pairwise%20swap%20of%20nodes%20in%20LinkeList.cpp)
 * [Merge K sorted linked lists](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/Merge%20K%20sorted%20linked%20lists.cpp)
+
+## Day 39
+### [Added README file in LinkedList](https://github.com/pritmanvar/100-Days-of-Code/blob/main/LinkedList/README.md)
+### Appeared in Google KickStart Rount D and solved a problem
+* [Arithmetic Square](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Google%20Competitions/Arithmetic%20Square.cpp)
+### Appeared in Codeforces Round #732 (Div. 2) and solved a problem
+* [A - AquaMoon and Two Arrays](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20AquaMoon%20and%20Two%20Arrays.cpp)
