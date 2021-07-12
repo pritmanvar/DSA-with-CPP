@@ -342,3 +342,16 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Arithmetic Square](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Google%20Competitions/Arithmetic%20Square.cpp)
 ### Appeared in Codeforces Round #732 (Div. 2) and solved a problem
 * [A - AquaMoon and Two Arrays](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20AquaMoon%20and%20Two%20Arrays.cpp)
+
+## Day 40
+### Solved Following Problems
+* [Number of 1 Bits](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Bit%20Manipulation/Number%20of%201%20Bits.cpp)
+* [Non Repeating Numbers](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Bit%20Manipulation/Non%20Repeating%20Numbers.cpp)
+* [Bit Difference](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Bit%20Manipulation/Bit%20Difference.cpp)
+* [Power of 2](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Bit%20Manipulation/Power%20of%202.cpp)
+* [Find position of set bit](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Bit%20Manipulation/Find%20position%20of%20set%20bit.cpp)
+* [Power Set](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Bit%20Manipulation/Power%20Set.cpp)
+* [Letter Combinations of a Phone Number](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/Letter%20Combinations%20of%20a%20Phone%20Number.cpp)
+* [Find All Anagrams in a String](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Strings/Find%20All%20Anagrams%20in%20a%20String.cpp)
+* [Partition Labels](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Partition%20Labels.cpp)
+* [String to Integer (atoi)](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Strings/String%20to%20Integer%20(atoi).cpp)
