@@ -355,3 +355,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Find All Anagrams in a String](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Strings/Find%20All%20Anagrams%20in%20a%20String.cpp)
 * [Partition Labels](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Partition%20Labels.cpp)
 * [String to Integer (atoi)](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Strings/String%20to%20Integer%20(atoi).cpp)
+
+## Day 41
+### Learned about stack 
