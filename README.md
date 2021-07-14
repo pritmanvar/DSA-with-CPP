@@ -358,3 +358,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 41
 ### Learned about stack 
+
+## Day 42
+### Solved Following Problems
+* [Top K Frequent Elements](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Top%20K%20Frequent%20Elements.cpp)
+* [Largest Number](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Sorting/Largest%20Number.cpp)
+* [Find the element that appears once](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Searching/Find%20the%20element%20that%20appears%20once.cpp)
