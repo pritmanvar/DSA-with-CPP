@@ -364,3 +364,5 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Top K Frequent Elements](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Top%20K%20Frequent%20Elements.cpp)
 * [Largest Number](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Sorting/Largest%20Number.cpp)
 * [Find the element that appears once](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Searching/Find%20the%20element%20that%20appears%20once.cpp)
+### Appeared in Educational Codeforces Round 111 (Rated for Div. 2) and solved a problem
+* [A - Find The Array](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20Find%20The%20Array.cpp)
