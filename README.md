@@ -366,3 +366,15 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Find the element that appears once](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Searching/Find%20the%20element%20that%20appears%20once.cpp)
 ### Appeared in Educational Codeforces Round 111 (Rated for Div. 2) and solved a problem
 * [A - Find The Array](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20Find%20The%20Array.cpp)
+
+## Day 43
+### Solved Following Problems
+* [Median in a row-wise sorted Matrix](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Median%20in%20a%20row-wise%20sorted%20Matrix.cpp)
+* [Implement two stacks in an array](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Stack/Implement%20two%20stacks%20in%20an%20array.cpp)
+* [Parenthesis Checker](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Stack/Parenthesis%20Checker.cpp)
+* [Reverse a string using Stack](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Stack/Reverse%20a%20string%20using%20Stack.cpp)
+* [Next Greater Element](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Stack/Next%20Greater%20Element.cpp)
+* [The Celebrity Problem](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Stack/The%20Celebrity%20Problem.cpp)
+* [Evaluation of Postfix Expression](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Stack/Evaluation%20of%20Postfix%20Expression.cpp)
+* [Maximum Rectangular Area in a Histogram](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Stack/Maximum%20Rectangular%20Area%20in%20a%20Histogram.cpp)
+* [Delete middle element of a stack](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Stack/Delete%20middle%20element%20of%20a%20stack.cpp)
