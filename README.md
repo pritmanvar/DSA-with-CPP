@@ -15,8 +15,8 @@
 | Unordered Set | ```O(1)Average O(n)Worst``` | ```O(1)Average O(n)Worst``` |``` -``` | ```O(1)Average O(n)Worst``` | ```O(n)``` |
 | Map | ```O(logn)``` | ```O(logn)``` |``` -``` | ```O(logn)``` | ```O(n)``` |
 | Unordered Map | ```O(1)Average O(n)Worst``` | ```O(1)Average O(n)Worst``` |``` -``` | ```O(1)Average O(n)Worst``` | ```O(n)``` |
-<!-- | Queue | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Stack | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
+<!-- | Queue | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Doubly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Circular Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
@@ -378,3 +378,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Evaluation of Postfix Expression](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Stack/Evaluation%20of%20Postfix%20Expression.cpp)
 * [Maximum Rectangular Area in a Histogram](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Stack/Maximum%20Rectangular%20Area%20in%20a%20Histogram.cpp)
 * [Delete middle element of a stack](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Stack/Delete%20middle%20element%20of%20a%20stack.cpp)
+
+## Day 44
+### Learned about basic functions of queue and dequeue
+### Solved Following Problems
+* [Rightmost different bit](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Bit%20Manipulation/Rightmost%20different%20bit.cpp)
+* [Swap all odd and even bits](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Bit%20Manipulation/Swap%20all%20odd%20and%20even%20bits.cpp)
