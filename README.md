@@ -387,3 +387,4 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 45
 ### [Implemented queue](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Queue/queue.cpp)
+### [Implemented dequeue](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Queue/dequeue.cpp)
