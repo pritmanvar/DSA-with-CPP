@@ -384,3 +384,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Following Problems
 * [Rightmost different bit](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Bit%20Manipulation/Rightmost%20different%20bit.cpp)
 * [Swap all odd and even bits](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Bit%20Manipulation/Swap%20all%20odd%20and%20even%20bits.cpp)
+
+## Day 45
+### [Implemented queue](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Queue/queue.cpp)
