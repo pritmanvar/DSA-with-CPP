@@ -400,3 +400,5 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Following Problems
 * [Maximum of all subarrays of size k](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Queue/Maximum%20of%20all%20subarrays%20of%20size%20k.cpp)
 * [Product array puzzle](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Product%20array%20puzzle.cpp)
+* [Search a 2D Matrix II](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Searching/Search%20a%202D%20Matrix%20II.cpp)
+* [Intersection of Two Arrays II](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Intersection%20of%20Two%20Arrays%20II.cpp)
