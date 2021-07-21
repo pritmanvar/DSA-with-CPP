@@ -388,3 +388,15 @@ This will be the repository for C++ topic wise questions, practice questions and
 ## Day 45
 ### [Implemented queue](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Queue/queue.cpp)
 ### [Implemented dequeue](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Queue/dequeue.cpp)
+### Solved Followinng Problems
+* [Stack using two queues](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Queue/Stack%20using%20two%20queues.cpp)
+* [Queue using two Stacks](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Queue/Queue%20using%20two%20Stacks.cpp)
+* [Queue Reversal](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Queue/Queue%20Reversal.cpp)
+* [Reverse First K elements of Queue](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Queue/Reverse%20First%20K%20elements%20of%20Queue.cpp)
+* [First negative integer in every window of size k](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Queue/First%20negative%20integer%20in%20every%20window%20of%20size%20k.cpp)
+* [Count the Reversals](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Queue/Count%20the%20Reversals.cpp)
+
+## Day 46
+### Solved Following Problems
+* [Maximum of all subarrays of size k](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Queue/Maximum%20of%20all%20subarrays%20of%20size%20k.cpp)
+* [Product array puzzle](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Product%20array%20puzzle.cpp)
