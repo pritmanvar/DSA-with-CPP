@@ -16,8 +16,8 @@
 | Map | ```O(logn)``` | ```O(logn)``` |``` -``` | ```O(logn)``` | ```O(n)``` |
 | Unordered Map | ```O(1)Average O(n)Worst``` | ```O(1)Average O(n)Worst``` |``` -``` | ```O(1)Average O(n)Worst``` | ```O(n)``` |
 | Stack | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
-<!-- | Queue | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
-| Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
+| Queue | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
+<!-- | Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Doubly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Circular Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Circular Doubly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
@@ -402,3 +402,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Product array puzzle](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Arrays/Product%20array%20puzzle.cpp)
 * [Search a 2D Matrix II](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Searching/Search%20a%202D%20Matrix%20II.cpp)
 * [Intersection of Two Arrays II](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Hashing/Intersection%20of%20Two%20Arrays%20II.cpp)
+
+## Day 47
+### Learned about Binary Trees and implemented [basic functions of Binary Trees](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Basic_Functions_of_Binary_Tree.cpp)
+### Appeared in Harbour.Space Scholarship Contest 2021-2022 (Div. 1 + Div. 2) and solved a problem
+* [A - Digits Sum](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20Digits%20Sum.cpp)
