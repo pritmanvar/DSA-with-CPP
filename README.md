@@ -407,3 +407,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Learned about Binary Trees and implemented [basic functions of Binary Trees](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Basic_Functions_of_Binary_Tree.cpp)
 ### Appeared in Harbour.Space Scholarship Contest 2021-2022 (Div. 1 + Div. 2) and solved a problem
 * [A - Digits Sum](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20Digits%20Sum.cpp)
+
+## Day 48
+### Appeared in Codeforces Round #734 (Div. 3) and solved 3 problems
+* [A - Polycarp and Coins]
+* [B1 - Wonderful Coloring - 1](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B1%20-%20Wonderful%20Coloring%20-%201.cpp)
+* [B2 - Wonderful Coloring - 2](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B2%20-%20Wonderful%20Coloring%20-%202.cpp)
