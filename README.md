@@ -413,3 +413,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [A - Polycarp and Coins]
 * [B1 - Wonderful Coloring - 1](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B1%20-%20Wonderful%20Coloring%20-%201.cpp)
 * [B2 - Wonderful Coloring - 2](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B2%20-%20Wonderful%20Coloring%20-%202.cpp)
+
+## Day 49
+### Learned about advance tree concepts.
