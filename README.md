@@ -431,6 +431,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [ZigZag Tree Traversal](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/ZigZag%20Tree%20Traversal.cpp)
 * [Check for Balanced Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Check%20for%20Balanced%20Tree.cpp)
 ### Appeared in CodeChef July Cook-Off 2021 Division 2 and solved 3 problems
-* [Chef and GCD]
-* [XOR-ORED]
-* [Chef In Infinite Plane]
+* [Chef and GCD](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Chef%20and%20GCD.cpp)
+* [XOR-ORED](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/XOR-ORED.cpp)
+* [Chef In Infinite Plane](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Chef%20In%20Infinite%20Plane.cpp)
