@@ -416,3 +416,21 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 49
 ### Learned about advance tree concepts.
+
+## Day 50
+### Continued with advance tree concepts.
+
+## Day 51
+### Solved following problems
+* [Level order traversal](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Level%20order%20traversal.cpp)
+* [Reverse Level Order Traversal](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Reverse%20Level%20Order%20Traversal.cpp)
+* [Height of Binary Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Height%20of%20Binary%20Tree.cpp)
+* [Diameter of Binary Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Diameter%20of%20Binary%20Tree.cpp)
+* [Left View of Binary Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Left%20View%20of%20Binary%20Tree.cpp)
+* [Right View of Binary Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Right%20View%20of%20Binary%20Tree.cpp)
+* [ZigZag Tree Traversal](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/ZigZag%20Tree%20Traversal.cpp)
+* [Check for Balanced Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Check%20for%20Balanced%20Tree.cpp)
+### Appeared in CodeChef July Cook-Off 2021 Division 2 and solved 3 problems
+* [Chef and GCD]
+* [XOR-ORED]
+* [Chef In Infinite Plane]
