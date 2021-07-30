@@ -443,4 +443,12 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Sum Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Sum%20Tree.cpp)
 * [Leaf at same level](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Leaf%20at%20same%20level.cpp)
 
+## Day 53
+### Solved Following problems
+* [Check Mirror in N-ary tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Check%20Mirror%20in%20N-ary%20tree.cpp)
+* [Sum of the Longest Bloodline of a Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Sum%20of%20the%20Longest%20Bloodline%20of%20a%20Tree.cpp)
+* [Lowest Common Ancestor in a Binary Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Lowest%20Common%20Ancestor%20in%20a%20Binary%20Tree.cpp)
+* [Min distance between two given nodes of a Binary Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Min%20distance%20between%20two%20given%20nodes%20of%20a%20Binary%20Tree.cpp)
 
+### Appeared in Educational Codeforces Round 112 (Rated for Div. 2) and solved a problem
+* [A. PizzaForces](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A.%20PizzaForces.cpp)
