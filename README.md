@@ -434,3 +434,13 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Chef and GCD](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Chef%20and%20GCD.cpp)
 * [XOR-ORED](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/XOR-ORED.cpp)
 * [Chef In Infinite Plane](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Chef%20In%20Infinite%20Plane.cpp)
+
+## Day 52
+### Solved Following problems
+* [Binary Tree to DLL](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Binary%20Tree%20to%20DLL.cpp)
+* [Transform to Sum Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Transform%20to%20Sum%20Tree.cpp)
+* [Construct Tree from Inorder & Preorder](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Construct%20Tree%20from%20Inorder%20%26%20Preorder.cpp)
+* [Sum Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Sum%20Tree.cpp)
+* [Leaf at same level](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Leaf%20at%20same%20level.cpp)
+
+
