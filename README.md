@@ -452,3 +452,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ### Appeared in Educational Codeforces Round 112 (Rated for Div. 2) and solved a problem
 * [A. PizzaForces](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A.%20PizzaForces.cpp)
+
+## Day 54
+### Solved Following Problem
+* [Check if Tree is Isomorphic](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Check%20if%20Tree%20is%20Isomorphic.cpp)
+### Appeared in CodeChef July Lunchtime 2021 Division 2 and solved 1 problem
+* [Beautiful Pairs](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Beautiful%20Pairs.cpp)
