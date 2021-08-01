@@ -458,3 +458,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Check if Tree is Isomorphic](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Check%20if%20Tree%20is%20Isomorphic.cpp)
 ### Appeared in CodeChef July Lunchtime 2021 Division 2 and solved 1 problem
 * [Beautiful Pairs](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Beautiful%20Pairs.cpp)
+
+## Day 55
+### Learned basics of Binary Search Tree and [Implemented its basic functions](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Basic_Functions_of_Binary_Search_Tree.cpp)
