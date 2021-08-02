@@ -463,3 +463,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Learned basics of Binary Search Tree and [Implemented its basic functions](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Basic_Functions_of_Binary_Search_Tree.cpp)
 ### Appeared in Educational Codeforces Round #736 (Div. 2) and solved a problem
 * [A - Gregor and Cryptography](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20Gregor%20and%20Cryptography.cpp)
+
+## Day 56
+### Learnded some advance concepts of binary search trees
