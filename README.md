@@ -466,3 +466,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 56
 ### Learnded some advance concepts of binary search trees
+
+## Day 57
+### Continued with learning Binary Search Tree
