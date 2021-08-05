@@ -469,3 +469,15 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 57
 ### Continued with learning Binary Search Tree
+
+## Day 58
+### Solved Following Problems
+* [Count total set bits](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Bit%20Manipulation/Count%20total%20set%20bits.cpp)
+* [Duplicate subtree in Binary Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Duplicate%20subtree%20in%20Binary%20Tree.cpp)
+* [Duplicate Subtrees](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Duplicate%20Subtrees.cpp)
+* [Delete Node in a BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Delete%20Node%20in%20a%20BST.cpp)
+* [Minimum element in BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Minimum%20element%20in%20BST.cpp)
+* [Predecessor and Successor](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Predecessor%20and%20Successor.cpp)
+* [Check for BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Check%20for%20BST.cpp)
+* [Populate Inorder Successor for all nodes](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Populate%20Inorder%20Successor%20for%20all%20nodes.cpp)
+* [Lowest Common Ancestor in a BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Lowest%20Common%20Ancestor%20in%20a%20BST.cpp)
