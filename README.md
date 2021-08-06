@@ -410,7 +410,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 48
 ### Appeared in Codeforces Round #734 (Div. 3) and solved 3 problems
-* [A - Polycarp and Coins]
+* [A - Polycarp and Coins](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20Polycarp%20and%20Coins.cpp)
 * [B1 - Wonderful Coloring - 1](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B1%20-%20Wonderful%20Coloring%20-%201.cpp)
 * [B2 - Wonderful Coloring - 2](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B2%20-%20Wonderful%20Coloring%20-%202.cpp)
 
@@ -481,3 +481,13 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Check for BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Check%20for%20BST.cpp)
 * [Populate Inorder Successor for all nodes](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Populate%20Inorder%20Successor%20for%20all%20nodes.cpp)
 * [Lowest Common Ancestor in a BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Lowest%20Common%20Ancestor%20in%20a%20BST.cpp)
+
+## Day 59
+### Solved Following Problems
+* [Binary Tree to BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Binary%20Tree%20to%20BST.cpp)
+* [Kth largest element in BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Kth%20largest%20element%20in%20BST.cpp)
+* [k-th smallest element in BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/k-th%20smallest%20element%20in%20BST.cpp)
+### Appeared in CodeChef August Challenge 2021 Division 2 and solved 3 problems.
+* [Olympics Ranking]
+* [Problem Difficulties]
+* [Chef and Bulb Invention]
