@@ -491,3 +491,10 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Olympics Ranking]
 * [Problem Difficulties]
 * [Chef and Bulb Invention]
+
+## Day 60
+### Appeared in ICPC Preliminary Round and solved 1 problems.
+* [The Married-Unmarried Riddle](https://github.com/pritmanvar/100-Days-of-Code/blob/main/ICPC/The%20Married-Unmarried%20Riddle.cpp)
+### Solved Following Problems
+* [Brothers From Different Root](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Brothers%20From%20Different%20Root.cpp)
+* [Count BST nodes that lie in a given range](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Count%20BST%20nodes%20that%20lie%20in%20a%20given%20range.cpp)
