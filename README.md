@@ -17,11 +17,11 @@
 | Unordered Map | ```O(1)Average O(n)Worst``` | ```O(1)Average O(n)Worst``` |``` -``` | ```O(1)Average O(n)Worst``` | ```O(n)``` |
 | Stack | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Queue | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
+| Binary Search Tree | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(n)``` |
 <!-- | Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Doubly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Circular Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Circular Doubly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
-| Binary Search Tree | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(n)``` |
 | Binary Min Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
 | Binary Max Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | -->
 
@@ -498,3 +498,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Following Problems
 * [Brothers From Different Root](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Brothers%20From%20Different%20Root.cpp)
 * [Count BST nodes that lie in a given range](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Count%20BST%20nodes%20that%20lie%20in%20a%20given%20range.cpp)
+
+## Day 61
+* [Check whether BST contains Dead End](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Check%20whether%20BST%20contains%20Dead%20End.cpp)
+* [Largest BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Largest%20BST.cpp)
+* [Top View of Binary Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Top%20View%20of%20Binary%20Tree.cpp)
+* [Bottom View of Binary Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Bottom%20View%20of%20Binary%20Tree.cpp))
