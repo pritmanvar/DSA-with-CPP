@@ -503,4 +503,4 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Check whether BST contains Dead End](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Check%20whether%20BST%20contains%20Dead%20End.cpp)
 * [Largest BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Largest%20BST.cpp)
 * [Top View of Binary Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Top%20View%20of%20Binary%20Tree.cpp)
-* [Bottom View of Binary Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Bottom%20View%20of%20Binary%20Tree.cpp))
+* [Bottom View of Binary Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Bottom%20View%20of%20Binary%20Tree.cpp)
