@@ -500,7 +500,13 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Count BST nodes that lie in a given range](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Count%20BST%20nodes%20that%20lie%20in%20a%20given%20range.cpp)
 
 ## Day 61
+### Solved Following Problems.
 * [Check whether BST contains Dead End](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Check%20whether%20BST%20contains%20Dead%20End.cpp)
 * [Largest BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Largest%20BST.cpp)
 * [Top View of Binary Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Top%20View%20of%20Binary%20Tree.cpp)
 * [Bottom View of Binary Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Bottom%20View%20of%20Binary%20Tree.cpp)
+
+## Day 62
+### Learned basics of heaps
+### Solved a problem of CodeChef August Long Challenge.
+* [Special Triplets]
