@@ -510,3 +510,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Learned basics of heaps
 ### Solved a problem of CodeChef August Long Challenge.
 * [Special Triplets]
+
+## Day 63
+### Continued with heap videos.
