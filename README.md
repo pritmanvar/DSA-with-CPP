@@ -513,3 +513,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 63
 ### Continued with heap videos.
+
+## Day 64
+### Implemented [Min Heap](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Heaps/Min%20Heap.cpp) in C++.
