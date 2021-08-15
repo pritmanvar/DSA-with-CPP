@@ -516,3 +516,13 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 64
 ### Implemented [Min Heap](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Heaps/Min%20Heap.cpp) in C++.
+
+## Day 65
+### Solved Following Problems.
+* [k largest elements](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Heaps/k%20largest%20elements.cpp)
+* [Merge k Sorted Arrays](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Heaps/Merge%20k%20Sorted%20Arrays.cpp)
+* [Merge two binary Max heaps](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Heaps/Merge%20two%20binary%20Max%20heaps.cpp)
+* [Is Binary Tree Heap](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Heaps/Is%20Binary%20Tree%20Heap.cpp)
+### Appeared in CodeChef Starters 8 Division 2 and solved 2 problems.
+* [Penalty Shots](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Penalty%20Shots.cpp)
+* [Javelin Qualification](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Javelin%20Qualification.cpp)
