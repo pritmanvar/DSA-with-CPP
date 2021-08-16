@@ -526,3 +526,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Appeared in CodeChef Starters 8 Division 2 and solved 2 problems.
 * [Penalty Shots](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Penalty%20Shots.cpp)
 * [Javelin Qualification](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Javelin%20Qualification.cpp)
+
+## Day 66
+### Solved Following Problems.
+* [Minimum Cost of ropes](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Heaps/Minimum%20Cost%20of%20ropes.cpp)
+* [Kth element in Matrix](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Heaps/Kth%20element%20in%20Matrix.cpp)
