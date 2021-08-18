@@ -536,3 +536,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Following Problems.
 * [Game with String](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Heaps/Game%20with%20String.cpp)
 * [Find median in a stream](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Heaps/Find%20median%20in%20a%20stream.cpp)
+### Appeared in Codeforces Round #739 (Div. 3) and solved 3 problems.
+* [A - Dislike of Threes](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20Dislike%20of%20Threes.cpp)
+* [B - Who's Opposite?](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B%20-%20Who's%20Opposite%3F.cpp)
+* [C - Infinity Table](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/C%20-%20Infinity%20Table.cpp)
