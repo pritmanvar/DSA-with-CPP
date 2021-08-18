@@ -531,3 +531,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Following Problems.
 * [Minimum Cost of ropes](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Heaps/Minimum%20Cost%20of%20ropes.cpp)
 * [Kth element in Matrix](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Heaps/Kth%20element%20in%20Matrix.cpp)
+
+## Day 67
+### Solved Following Problems.
+* [Game with String](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Heaps/Game%20with%20String.cpp)
+* [Find median in a stream](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Heaps/Find%20median%20in%20a%20stream.cpp)
