@@ -540,3 +540,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [A - Dislike of Threes](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20Dislike%20of%20Threes.cpp)
 * [B - Who's Opposite?](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B%20-%20Who's%20Opposite%3F.cpp)
 * [C - Infinity Table](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/C%20-%20Infinity%20Table.cpp)
+
+## Day 68
+### Learned some basic concepts of graph.
