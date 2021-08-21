@@ -543,3 +543,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 68
 ### Learned some basic concepts of graph.
+
+## Day 69
+### Continued with learing graph concepts.
