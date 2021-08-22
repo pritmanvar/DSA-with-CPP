@@ -488,9 +488,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Kth largest element in BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Kth%20largest%20element%20in%20BST.cpp)
 * [k-th smallest element in BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/k-th%20smallest%20element%20in%20BST.cpp)
 ### Appeared in CodeChef August Challenge 2021 Division 2 and solved 3 problems.
-* [Olympics Ranking]
-* [Problem Difficulties]
-* [Chef and Bulb Invention]
+* [Olympics Ranking](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Olympics%20Ranking.cpp)
+* [Problem Difficulties](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Problem%20Difficulties.cpp)
+* [Chef and Bulb Invention](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Chef%20and%20Bulb%20Invention.cpp)
 
 ## Day 60
 ### Appeared in ICPC Preliminary Round and solved 1 problems.
@@ -509,7 +509,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 ## Day 62
 ### Learned basics of heaps
 ### Solved a problem of CodeChef August Long Challenge.
-* [Special Triplets]
+* [Special Triplets](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Special%20Triplets.cpp)
 
 ## Day 63
 ### Continued with heap videos.
@@ -546,3 +546,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 69
 ### Continued with learing graph concepts.
+
+## Day 70
+### Appeared in CodeChef August Cook-Off 2021 Division 2 and solved 3 problems.
+* [Equal Difference](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Equal%20Difference.cpp)
+* [Different String](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Different%20String.cpp)
+* [Clear the Array](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Clear%20the%20Array.cpp)
