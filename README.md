@@ -552,3 +552,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Equal Difference](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Equal%20Difference.cpp)
 * [Different String](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Different%20String.cpp)
 * [Clear the Array](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Clear%20the%20Array.cpp)
+
+## Day 71
+### Continued with some advance graph concepts.
