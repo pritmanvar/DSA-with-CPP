@@ -555,3 +555,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 71
 ### Continued with some advance graph concepts.
+
+## Day 72
+### While solving problems I realized that my knowledge is not sufficient so started to learn graph from CodeNCode.
+### Solved Following Problem.
+* [Ceil in BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Ceil%20in%20BST.cpp)
+* [Floor in BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Floor%20in%20BST.cpp)
