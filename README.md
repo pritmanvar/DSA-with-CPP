@@ -561,3 +561,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Following Problem.
 * [Ceil in BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Ceil%20in%20BST.cpp)
 * [Floor in BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Floor%20in%20BST.cpp)
+
+## Day 73
+### Continued with graph playlist.
+### Appeared in Codeforces Round #741 (Div. 2) and solved 1 problem.
+* [A - The Miracle and the Sleeper](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20The%20Miracle%20and%20the%20Sleeper.cpp)
