@@ -566,3 +566,13 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Continued with graph playlist.
 ### Appeared in Codeforces Round #741 (Div. 2) and solved 1 problem.
 * [A - The Miracle and the Sleeper](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20The%20Miracle%20and%20the%20Sleeper.cpp)
+
+## Day 74
+### Continued with graph playlist.
+### Appeared in CodeChef August Lunchtime 2021 Division 2 and solved 1 problem.
+* [K-th Maximum](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/K-th%20Maximum.cpp)
+
+## Day 75
+## Appeared in CodeChef Starters 10 Division 2 (Rated) and solved 2 problems.
+* [Maximise the Subsequence Sum](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Maximise%20the%20Subsequence%20Sum.cpp)
+* [Remove One Element](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Remove%20One%20Element.cpp)
