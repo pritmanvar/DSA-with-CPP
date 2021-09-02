@@ -576,3 +576,11 @@ This will be the repository for C++ topic wise questions, practice questions and
 ## Appeared in CodeChef Starters 10 Division 2 (Rated) and solved 2 problems.
 * [Maximise the Subsequence Sum](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Maximise%20the%20Subsequence%20Sum.cpp)
 * [Remove One Element](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Remove%20One%20Element.cpp)
+
+## Day 76
+### Solved Following Problems.
+* [BFS of graph](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/BFS%20of%20graph.cpp)
+* [Detect cycle in an undirected graph](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Detect%20cycle%20in%20an%20undirected%20graph.cpp)
+* [Steps by Knight](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Steps%20by%20Knight.cpp)
+* [Flood Fill](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Flood%20Fill.cpp)
+* [Clone Graph](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Clone%20Graph.cpp)
