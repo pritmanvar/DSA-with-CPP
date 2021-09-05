@@ -573,7 +573,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [K-th Maximum](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/K-th%20Maximum.cpp)
 
 ## Day 75
-## Appeared in CodeChef Starters 10 Division 2 (Rated) and solved 2 problems.
+### Appeared in CodeChef Starters 10 Division 2 (Rated) and solved 2 problems.
 * [Maximise the Subsequence Sum](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Maximise%20the%20Subsequence%20Sum.cpp)
 * [Remove One Element](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Remove%20One%20Element.cpp)
 
@@ -584,3 +584,17 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Steps by Knight](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Steps%20by%20Knight.cpp)
 * [Flood Fill](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Flood%20Fill.cpp)
 * [Clone Graph](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Clone%20Graph.cpp)
+
+## Day 77
+### Solved Following Problems.
+* [Number of Operations to Make Network Connected](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp)
+* [Word Ladder](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Word%20Ladder.cpp)
+* [Topological sort](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Topological%20sort.cpp)
+
+## Day 78
+### Appeared in Codeforces Round #742 (Div. 2) and solved 1 problem.
+* [A - Domino Disaster](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20Domino%20Disaster.cpp)
+* [B - MEXor Mixup](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B%20-%20MEXor%20Mixup.cpp)
+### Solved Following Problem.
+* [Find the number of islands](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Find%20the%20number%20of%20islands.cpp)
+* [Negative weight cycle](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Negative%20weight%20cycle.cpp)
