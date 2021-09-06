@@ -598,3 +598,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Following Problem.
 * [Find the number of islands](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Find%20the%20number%20of%20islands.cpp)
 * [Negative weight cycle](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Negative%20weight%20cycle.cpp)
+
+## Day 79
+### Solved Following Problems.
+* [Snakes and Ladders](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Snakes%20and%20Ladders.cpp)
+* [Strongly Connected Components (Kosaraju's Algo)](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Strongly%20Connected%20Components%20(Kosaraju's%20Algo).cpp)
