@@ -603,3 +603,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Following Problems.
 * [Snakes and Ladders](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Snakes%20and%20Ladders.cpp)
 * [Strongly Connected Components (Kosaraju's Algo)](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Strongly%20Connected%20Components%20(Kosaraju's%20Algo).cpp)
+
+## Day 80
+### Solved Following Problems.
+* [Journey to the Moon](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Journey%20to%20the%20Moon.cpp)
+* [Distance of nearest cell having 1](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Distance%20of%20nearest%20cell%20having%201.cpp)
