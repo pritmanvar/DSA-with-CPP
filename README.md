@@ -18,12 +18,12 @@
 | Stack | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Queue | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Binary Search Tree | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(n)``` |
+| Binary Min Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
+| Binary Max Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
 <!-- | Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Doubly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
 | Circular Singly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
-| Circular Doubly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` |
-| Binary Min Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
-| Binary Max Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | -->
+| Circular Doubly LinkedList | ```O(1)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` | ```O(n)``` | -->
 
 ## Sorting Algorithms in Big O Notiation
 | Sort Algorithm | Best | Average | Worst | Space Complexity |
@@ -608,3 +608,16 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Following Problems.
 * [Journey to the Moon](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Journey%20to%20the%20Moon.cpp)
 * [Distance of nearest cell having 1](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Graphs/Distance%20of%20nearest%20cell%20having%201.cpp)
+
+## Day 81
+### Solved some problems form September Challenge 2021 Division 2.
+* [Airline Restrictions]
+* [Travel Pass]
+* [Shuffling Parities]
+### Solved Following Problems.
+* [Vertical Traversal of Binary Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Vertical%20Traversal%20of%20Binary%20Tree.cpp)
+* [Find Common Nodes in two BSTs](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Find%20Common%20Nodes%20in%20two%20BSTs.cpp)
+* [Find the Closest Element in BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Find%20the%20Closest%20Element%20in%20BST.cpp)
+* [Convert Level Order Traversal to BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Convert%20Level%20Order%20Traversal%20to%20BST.cpp)
+### Solved a problem from Educational Codeforces Round 113
+* [A. Balanced Substring](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A.%20Balanced%20Substring.cpp)
