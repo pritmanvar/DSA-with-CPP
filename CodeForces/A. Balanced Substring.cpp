@@ -1,7 +1,7 @@
 // Problem Link : https://codeforces.com/contest/1569/problem/A
 #include<bits/stdc++.h>
 
-using namespace std;
+using namespace std; 
 
 int main() 
 {
