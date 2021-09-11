@@ -621,3 +621,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Convert Level Order Traversal to BST](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Convert%20Level%20Order%20Traversal%20to%20BST.cpp)
 ### Solved a problem from Educational Codeforces Round 113
 * [A. Balanced Substring](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A.%20Balanced%20Substring.cpp)
+
+### Solved a problem from Educational Codeforces Round 113
+* [B. Chess Tournament](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B.%20Chess%20Tournament.cpp)
