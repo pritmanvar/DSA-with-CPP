@@ -1,5 +1,5 @@
 // Problem Link : https://codeforces.com/contest/1569/problem/B
-
+ 
 // Approch : This approch is taken from codeforces tutorial.
 // Since the chess players of the first type should not lose a single game, 
 // each game between two chess players of the first type should end in a draw (so that none of them gets defeated). 
