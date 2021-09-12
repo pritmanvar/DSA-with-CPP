@@ -622,5 +622,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved a problem from Educational Codeforces Round 113
 * [A. Balanced Substring](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A.%20Balanced%20Substring.cpp)
 
+## Day 82
 ### Solved a problem from Educational Codeforces Round 113
 * [B. Chess Tournament](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B.%20Chess%20Tournament.cpp)
+### Solved Following Problem.
+* [Smaller on Right](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Smaller%20on%20Right.cpp)
