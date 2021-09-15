@@ -627,3 +627,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [B. Chess Tournament](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B.%20Chess%20Tournament.cpp)
 ### Solved Following Problem.
 * [Smaller on Right](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Smaller%20on%20Right.cpp)
+
+## Day 83
+### Learned about Greedy 
