@@ -611,9 +611,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 81
 ### Solved some problems form September Challenge 2021 Division 2.
-* [Airline Restrictions]
-* [Travel Pass]
-* [Shuffling Parities]
+* [Airline Restrictions](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Airline%20Restrictions.cpp)
+* [Travel Pass](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Travel%20Pass.cpp)
+* [Shuffling Parities](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Shuffling%20Parities.cpp)
 ### Solved Following Problems.
 * [Vertical Traversal of Binary Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Vertical%20Traversal%20of%20Binary%20Tree.cpp)
 * [Find Common Nodes in two BSTs](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Find%20Common%20Nodes%20in%20two%20BSTs.cpp)
