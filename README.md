@@ -630,3 +630,13 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 83
 ### Learned about Greedy 
+
+## Day 84
+### Solved Following Problems
+* [N meetings in one room](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Greedy/N%20meetings%20in%20one%20room.cpp)
+* [Huffman Encoding](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Greedy/Huffman%20Encoding.cpp)
+* [Water Connection Problem](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Greedy/Water%20Connection%20Problem.cpp)
+* [Fractional Knapsack](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Greedy/Fractional%20Knapsack.cpp)
+### Solved Following Problems From CodeForces
+* [A. Watermelon](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A.%20Watermelon.cpp)
+* [A. Single Push](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A.%20Single%20Push.cpp)
