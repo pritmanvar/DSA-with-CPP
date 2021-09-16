@@ -640,3 +640,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Following Problems From CodeForces
 * [A. Watermelon](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A.%20Watermelon.cpp)
 * [A. Single Push](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A.%20Single%20Push.cpp)
+### Appeared in CodeChef Starters 11 Division 2 (Rated) and solved 2 problems.
+* [Obtain the Sum](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Obtain%20the%20Sum.cpp)
+* [The Grid Fill Problem](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/The%20Grid%20Fill%20Problem.cpp)
