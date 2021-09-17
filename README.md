@@ -643,3 +643,11 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Appeared in CodeChef Starters 11 Division 2 (Rated) and solved 2 problems.
 * [Obtain the Sum](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Obtain%20the%20Sum.cpp)
 * [The Grid Fill Problem](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/The%20Grid%20Fill%20Problem.cpp)
+
+
+## Day 85
+### Solved Following Problems
+* [Choose and Swap](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Greedy/Choose%20and%20Swap.cpp)
+* [Shop in Candy Store](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Greedy/Shop%20in%20Candy%20Store.cpp)
+* [Maximize sum after K negations](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Greedy/Maximize%20sum%20after%20K%20negations.cpp)
+* [Nodes at given distance in binary tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Nodes%20at%20given%20distance%20in%20binary%20tree.cpp)
