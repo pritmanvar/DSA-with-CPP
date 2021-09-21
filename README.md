@@ -651,3 +651,12 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Shop in Candy Store](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Greedy/Shop%20in%20Candy%20Store.cpp)
 * [Maximize sum after K negations](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Greedy/Maximize%20sum%20after%20K%20negations.cpp)
 * [Nodes at given distance in binary tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Trees/Nodes%20at%20given%20distance%20in%20binary%20tree.cpp)
+
+## Day 85
+### Solved Following Problems.
+* [Maximize sum(arr[i]*i) of an Array](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Greedy/Maximize%20sum(arr%5Bi%5D*i)%20of%20an%20Array.cpp)
+* [Swap and Maximize](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Greedy/Swap%20and%20Maximize.cpp)
+* [Smallest number](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Greedy/Smallest%20number.cpp)
+* [Majority Element](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Greedy/Majority%20Element.cpp)
+### Solved following problem from codeforces.
+* [A_Lever](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A_Lever.cpp)
