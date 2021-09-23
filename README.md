@@ -660,3 +660,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Majority Element](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Greedy/Majority%20Element.cpp)
 ### Solved following problem from codeforces.
 * [A_Lever](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A_Lever.cpp)
+
+## Day 86
+### Learned about trie data structure.
