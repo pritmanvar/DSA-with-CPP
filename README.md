@@ -663,3 +663,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 86
 ### Learned about trie data structure.
+
+### Day 87
+### Appeared in CodeChef Starters 14 Division 2 (Rated) and solved 3 problems.
+* [Chef in Vaccination Queue](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Chef%20in%20Vaccination%20Queue.cpp)
+* [Magical Doors](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Magical%20Doors.cpp)
+* [Maximum Light Up](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Maximum%20Light%20Up.cpp)
