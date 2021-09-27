@@ -25,7 +25,7 @@ Trie* insert(Trie* trie, string word){
                 curr->child[word[i]] = new Trie(true);
         }
         curr = curr->child[word[i]]; // move to next char
-    }
+    } 
     return trie;
 }
 
