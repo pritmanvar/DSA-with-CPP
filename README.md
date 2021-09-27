@@ -669,3 +669,6 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Chef in Vaccination Queue](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Chef%20in%20Vaccination%20Queue.cpp)
 * [Magical Doors](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Magical%20Doors.cpp)
 * [Maximum Light Up](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Maximum%20Light%20Up.cpp)
+
+### Day 87
+## Implemented Basic Function of [Trie Data Structure](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Trie/Basic%20Functions%20of%20Trie.cpp).
