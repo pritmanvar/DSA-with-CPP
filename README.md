@@ -664,11 +664,14 @@ This will be the repository for C++ topic wise questions, practice questions and
 ## Day 86
 ### Learned about trie data structure.
 
-### Day 87
+## Day 87
 ### Appeared in CodeChef Starters 14 Division 2 (Rated) and solved 3 problems.
 * [Chef in Vaccination Queue](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Chef%20in%20Vaccination%20Queue.cpp)
 * [Magical Doors](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Magical%20Doors.cpp)
 * [Maximum Light Up](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Maximum%20Light%20Up.cpp)
 
-### Day 87
-## Implemented Basic Function of [Trie Data Structure](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Trie/Basic%20Functions%20of%20Trie.cpp).
+## Day 88
+### Implemented Basic Function of [Trie Data Structure](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Trie/Basic%20Functions%20of%20Trie.cpp).
+### Solved Following Prolems.
+* [Trie | (Insert and Search)](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Trie/Trie%20%7C%20(Insert%20and%20Search).cpp)
+* [Search Query for Strings](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Trie/Search%20Query%20for%20Strings.cpp)
