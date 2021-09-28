@@ -675,3 +675,12 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Following Prolems.
 * [Trie | (Insert and Search)](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Trie/Trie%20%7C%20(Insert%20and%20Search).cpp)
 * [Search Query for Strings](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Trie/Search%20Query%20for%20Strings.cpp)
+
+## Day 89
+### Solved Following Problem.
+* [Renaming Cities](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Trie/Renaming%20Cities.cpp)
+### Appeared in Codeforces Round #744 (Div. 3) and solved 4 problems.
+* [A - Casimir's String Solitaire](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20Casimir's%20String%20Solitaire.cpp)
+* [B - Shifting Sort](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B%20-%20Shifting%20Sort.cpp)
+* [C - Ticks](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/C%20-%20Ticks.cpp)
+* [D - Productive Meeting](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/D%20-%20Productive%20Meeting.cpp)
