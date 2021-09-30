@@ -691,4 +691,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [E1. Permutation Minimization by Deque](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/E1.%20Permutation%20Minimization%20by%20Deque.cpp)
 
 ## Day 91
+### Solved Following Problem From CodeForces.
 * [A - Point on Spiral](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20Point%20on%20Spiral.cpp)
+### Solved Follwing Problem.
+* [Remove Invalid Parentheses](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/Remove%20Invalid%20Parentheses.cpp)
