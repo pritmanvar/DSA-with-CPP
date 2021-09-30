@@ -684,3 +684,11 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [B - Shifting Sort](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B%20-%20Shifting%20Sort.cpp)
 * [C - Ticks](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/C%20-%20Ticks.cpp)
 * [D - Productive Meeting](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/D%20-%20Productive%20Meeting.cpp)
+
+## Day 90
+### Solved Following Problems on CodeForces.
+* [A. Rotate, Flip and Zoom](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A.%20Rotate%2C%20Flip%20and%20Zoom.cpp)
+* [E1. Permutation Minimization by Deque](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/E1.%20Permutation%20Minimization%20by%20Deque.cpp)
+
+## Day 91
+* [A - Point on Spiral](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A%20-%20Point%20on%20Spiral.cpp)
