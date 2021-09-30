@@ -12,7 +12,7 @@ int main()
     if((x == 0 && y == 0) || (x == 1 && y == 0)){
         cout << 0 << endl;
         exit(0);
-    }
+    } 
     int turns = 0;
     if(y == 0){
         turns = 1 + (abs(x)-1)*4;
