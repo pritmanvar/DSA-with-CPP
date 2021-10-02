@@ -705,3 +705,4 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Following Problems on CodeForces.
 * [A. Countdown](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A.%20Countdown.cpp)
 * [B. Numbers Box](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B.%20Numbers%20Box.cpp)
+* [B. Bad Boy](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B.%20Bad%20Boy.cpp)
