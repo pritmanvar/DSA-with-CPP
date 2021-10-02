@@ -696,3 +696,12 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Follwing Problem.
 * [Remove Invalid Parentheses](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/Remove%20Invalid%20Parentheses.cpp)
 * [Camel Case](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Trie/Camel%20Case.cpp)
+
+## Day 92
+### Solved Following Problem on CodeForces.
+* [A. Charmed by the Game](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A.%20Charmed%20by%20the%20Game.cpp)
+
+## Day 93
+### Solved Following Problems on CodeForces.
+* [A. Countdown](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A.%20Countdown.cpp)
+* [B. Numbers Box](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B.%20Numbers%20Box.cpp)
