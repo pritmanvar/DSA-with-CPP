@@ -711,3 +711,4 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Following Problems on CodeForces.
 * [B. fedor and new game](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B.%20fedor%20and%20new%20game.cpp)
 * [A. Fake NP](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A.%20Fake%20NP.cpp)
+### Learned about segment tree.
