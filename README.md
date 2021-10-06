@@ -715,3 +715,20 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 95
 ### Implemented [Segment Tree](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Segment%20Tree/Basic%20Functions%20of%20Segment%20Tree.cpp).
+
+## Day 96
+### Solved following problem on codeforces.
+* [B. Random Teams](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B.%20Random%20Teams.cpp)
+### Solved Following Problem.
+* [Decode String](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/Decode%20String.cpp)
+
+## Day 97
+### Solved following problem on codeforces.
+* [B. Take Your Places!](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B.%20Take%20Your%20Places!.cpp)
+### Solved Following Problem.
+* [Handshakes](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Recursion%20and%20BackTracking/Handshakes.cpp)
+
+## Day 98
+### Solved Following Problems on CodeForces.
+* [A. Regular Bracket Sequence](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A.%20Regular%20Bracket%20Sequence.cpp)
+* [B. Partial Replacement](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B.%20Partial%20Replacement.cpp)
