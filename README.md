@@ -732,3 +732,11 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Following Problems on CodeForces.
 * [A. Regular Bracket Sequence](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/A.%20Regular%20Bracket%20Sequence.cpp)
 * [B. Partial Replacement](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B.%20Partial%20Replacement.cpp)
+
+## Day 99
+### Solved Following Problem on CodeForces.
+* [B. Flip the Bits](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B.%20Flip%20the%20Bits.cpp)
+### Solved Following Problems.
+* [Range Min Max Queries](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Segment%20Tree/Range%20Min%20Max%20Queries.cpp)
+* [Preorder to Postorder](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Preorder%20to%20Postorder.cpp)
+* [Merge two BST 's](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Merge%20two%20BST%20's.cpp)
