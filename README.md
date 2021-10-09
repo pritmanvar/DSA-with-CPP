@@ -740,3 +740,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Range Min Max Queries](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Segment%20Tree/Range%20Min%20Max%20Queries.cpp)
 * [Preorder to Postorder](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Preorder%20to%20Postorder.cpp)
 * [Merge two BST 's](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Binary%20Search%20Tree/Merge%20two%20BST%20's.cpp)
+
+## Day 100
+### Solved Following Problems.
+* [Range GCD Queries](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Segment%20Tree/Range%20GCD%20Queries.cpp)
+* [Range LCM Queries](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Segment%20Tree/Range%20LCM%20Queries.cpp)
