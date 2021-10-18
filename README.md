@@ -745,3 +745,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Following Problems.
 * [Range GCD Queries](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Segment%20Tree/Range%20GCD%20Queries.cpp)
 * [Range LCM Queries](https://github.com/pritmanvar/100-Days-of-Code/blob/main/Segment%20Tree/Range%20LCM%20Queries.cpp)
+
+## Day 101
+### Solved Following Problem on CodeForces.
+* [C_Number_of_Pairs](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/C_Number_of_Pairs.cpp)
