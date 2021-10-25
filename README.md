@@ -749,3 +749,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 ## Day 101
 ### Solved Following Problem on CodeForces.
 * [C_Number_of_Pairs](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/C_Number_of_Pairs.cpp)
+
+## Day 102
+### Appeared in CodeChef October Cook-Off 2021 Division 2 (Rated) and solved 2 problems.
+* [Odd Sum](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Odd%20Sum.cpp)
+* [01 Subsequence](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/01%20Subsequence.cpp)
