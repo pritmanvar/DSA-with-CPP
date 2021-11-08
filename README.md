@@ -754,3 +754,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Appeared in CodeChef October Cook-Off 2021 Division 2 (Rated) and solved 2 problems.
 * [Odd Sum](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/Odd%20Sum.cpp)
 * [01 Subsequence](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeChef/01%20Subsequence.cpp)
+
+## Day 103
+### Solved following problems form CodeForces.
+* [B. Special Numbers](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B.%20Special%20Numbers.cpp)
+* [B. Balls of Steel](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B.%20Balls%20of%20Steel.cpp)
