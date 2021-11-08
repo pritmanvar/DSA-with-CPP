@@ -759,3 +759,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved following problems form CodeForces.
 * [B. Special Numbers](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B.%20Special%20Numbers.cpp)
 * [B. Balls of Steel](https://github.com/pritmanvar/100-Days-of-Code/blob/main/CodeForces/B.%20Balls%20of%20Steel.cpp)
+
+## Day 104
+### Solved following problem form CodeForces.
+* [C. Grandma Capa Knits a Scarf](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeForces/C.%20Grandma%20Capa%20Knits%20a%20Scarf.cpp)
