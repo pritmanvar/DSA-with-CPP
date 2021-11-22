@@ -764,7 +764,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved following problem form CodeForces.
 * [C. Grandma Capa Knits a Scarf](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeForces/C.%20Grandma%20Capa%20Knits%20a%20Scarf.cpp)
 
-## Dat 105
+## Day 105
 ### Appeared in CodeChef November Cook-Off 2021 Division 2 (Rated) and solved 2 problems.
 * [Missing Sums](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Missing%20Sums.cpp)
 * [Make it Divisible](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Make%20it%20Divisible.cpp)
