@@ -768,3 +768,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Appeared in CodeChef November Cook-Off 2021 Division 2 (Rated) and solved 2 problems.
 * [Missing Sums](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Missing%20Sums.cpp)
 * [Make it Divisible](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Make%20it%20Divisible.cpp)
+
+## Day 106
+### Solved Following Problems on Graph.
+* [E. Bertown roads](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Graphs/E.%20Bertown%20roads.cpp)
+* [topoLogical Sort](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Graphs/topoLogical%20Sort.cpp)
