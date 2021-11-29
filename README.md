@@ -773,3 +773,11 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Solved Following Problems on Graph.
 * [E. Bertown roads](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Graphs/E.%20Bertown%20roads.cpp)
 * [topoLogical Sort](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Graphs/topoLogical%20Sort.cpp)
+
+## Day 107
+## Solved Following Problems on Sliding Window from LeetCode.
+* [1004. Max Consecutive Ones III](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/1004.%20Max%20Consecutive%20Ones%20III.cpp)
+* [424. Longest Repeating Character Replacement](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/424.%20Longest%20Repeating%20Character%20Replacement.cpp)
+* [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.cpp)
+* [1358. Number of Substrings Containing All Three Characters](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters.cpp)
+* [1234. Replace the Substring for Balanced String](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/1234.%20Replace%20the%20Substring%20for%20Balanced%20String.cpp)
