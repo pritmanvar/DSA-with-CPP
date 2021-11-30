@@ -781,3 +781,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.cpp)
 * [1358. Number of Substrings Containing All Three Characters](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters.cpp)
 * [1234. Replace the Substring for Balanced String](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/1234.%20Replace%20the%20Substring%20for%20Balanced%20String.cpp)
+
+## Day 108
+### Solved Following Problems on Sliding Window from LeetCode.
+* [992. Subarrays with K Different Integers](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/992.%20Subarrays%20with%20K%20Different%20Integers.cpp)
+* [904. Fruit Into Baskets](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/904.%20Fruit%20Into%20Baskets.cpp)
+* [1208. Get Equal Substrings Within Budget](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/1208.%20Get%20Equal%20Substrings%20Within%20Budget.cpp)
