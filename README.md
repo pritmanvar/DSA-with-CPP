@@ -798,3 +798,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [435. Non-overlapping Intervals](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Arrays/435.%20Non-overlapping%20Intervals.cpp)
 * [334. Increasing Triplet Subsequence](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Arrays/334.%20Increasing%20Triplet%20Subsequence.cpp)
 * [222. Count Complete Tree Nodes](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Binary%20Trees/222.%20Count%20Complete%20Tree%20Nodes.cpp)
+
+## Day 111
+### Solved Following Problems on Sliding Window from LeetCode.
+* [2009. Minimum Number of Operations to Make Array Continuous](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Searching/2009.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Continuous.cpp)
+* [43. Multiply Strings](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Strings/43.%20Multiply%20Strings.cpp)
