@@ -775,7 +775,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [topoLogical Sort](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Graphs/topoLogical%20Sort.cpp)
 
 ## Day 107
-### Solved Following Problems on Sliding Window from LeetCode.
+### Solved Following Problems from LeetCode.
 * [1004. Max Consecutive Ones III](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/1004.%20Max%20Consecutive%20Ones%20III.cpp)
 * [424. Longest Repeating Character Replacement](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/424.%20Longest%20Repeating%20Character%20Replacement.cpp)
 * [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.cpp)
@@ -783,23 +783,29 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [1234. Replace the Substring for Balanced String](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/1234.%20Replace%20the%20Substring%20for%20Balanced%20String.cpp)
 
 ## Day 108
-### Solved Following Problems on Sliding Window from LeetCode.
+### Solved Following Problems from LeetCode.
 * [992. Subarrays with K Different Integers](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/992.%20Subarrays%20with%20K%20Different%20Integers.cpp)
 * [904. Fruit Into Baskets](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/904.%20Fruit%20Into%20Baskets.cpp)
 * [1208. Get Equal Substrings Within Budget](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Window%20Sliding/1208.%20Get%20Equal%20Substrings%20Within%20Budget.cpp)
 
 ## Day 109
-### Solved Following Problems on Sliding Window from LeetCode.
+### Solved Following Problems from LeetCode.
 * [15. 3Sum](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Arrays/15.%203Sum.cpp)
 * [151. Reverse Words in a String](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Arrays/151.%20Reverse%20Words%20in%20a%20String.cpp)
 
 ## Day 110
-### Solved Following Problems on Sliding Window from LeetCode.
+### Solved Following Problems from LeetCode.
 * [435. Non-overlapping Intervals](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Arrays/435.%20Non-overlapping%20Intervals.cpp)
 * [334. Increasing Triplet Subsequence](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Arrays/334.%20Increasing%20Triplet%20Subsequence.cpp)
 * [222. Count Complete Tree Nodes](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Binary%20Trees/222.%20Count%20Complete%20Tree%20Nodes.cpp)
 
 ## Day 111
-### Solved Following Problems on Sliding Window from LeetCode.
+### Solved Following Problems from LeetCode.
 * [2009. Minimum Number of Operations to Make Array Continuous](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Searching/2009.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Continuous.cpp)
 * [43. Multiply Strings](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Strings/43.%20Multiply%20Strings.cpp)
+
+## Day 112
+### Solved Following Problems from LeetCode.
+* [1488. Avoid Flood in The City](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Hashing/1488.%20Avoid%20Flood%20in%20The%20City.cpp)
+* [878. Nth Magical Number](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Searching/878.%20Nth%20Magical%20Number.cpp)
+* [2. Add Two Numbers](https://github.com/pritmanvar/DSA-with-CPP/blob/main/LinkedList/2.%20Add%20Two%20Numbers.cpp)
