@@ -809,3 +809,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [1488. Avoid Flood in The City](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Hashing/1488.%20Avoid%20Flood%20in%20The%20City.cpp)
 * [878. Nth Magical Number](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Searching/878.%20Nth%20Magical%20Number.cpp)
 * [2. Add Two Numbers](https://github.com/pritmanvar/DSA-with-CPP/blob/main/LinkedList/2.%20Add%20Two%20Numbers.cpp)
+
+## Day 113
+### Solved Following Problems from LeetCode.
+* [297. Serialize and Deserialize Binary Tree](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Binary%20Trees/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.cpp)
+* [997. Find the Town Judge](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Graphs/997.%20Find%20the%20Town%20Judge.cpp)
+* [1557. Minimum Number of Vertices to Reach All Nodes](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Graphs/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.cpp)
