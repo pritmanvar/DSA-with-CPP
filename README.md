@@ -815,3 +815,11 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [297. Serialize and Deserialize Binary Tree](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Binary%20Trees/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.cpp)
 * [997. Find the Town Judge](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Graphs/997.%20Find%20the%20Town%20Judge.cpp)
 * [1557. Minimum Number of Vertices to Reach All Nodes](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Graphs/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.cpp)
+
+
+## Day 114
+### Solved Following Problem on LeetCode.
+* [1537. Get the Maximum Score](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Recursion%20and%20BackTracking/1537.%20Get%20the%20Maximum%20Score.cpp)
+### Appeared in CodeChef December Lunchtime 2021 Division 2 and solved 2 problems.
+* [Maximum Trio](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Maximum%20Trio.cpp)
+* [Romantic Reversals](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Romantic%20Reversals.cpp)
