@@ -823,3 +823,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Appeared in CodeChef December Lunchtime 2021 Division 2 and solved 2 problems.
 * [Maximum Trio](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Maximum%20Trio.cpp)
 * [Romantic Reversals](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Romantic%20Reversals.cpp)
+
+## Day 115
+### Solved Following Problems.
+* [Count the subarrays having product less than k](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Arrays/Count%20the%20subarrays%20having%20product%20less%20than%20k.cpp)
+* [Run Length Encoding](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Strings/Run%20Length%20Encoding.cpp)
+* [Ugly Numbers](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Arrays/Ugly%20Numbers.cpp)
