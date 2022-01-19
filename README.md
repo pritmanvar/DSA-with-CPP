@@ -829,3 +829,10 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Count the subarrays having product less than k](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Arrays/Count%20the%20subarrays%20having%20product%20less%20than%20k.cpp)
 * [Run Length Encoding](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Strings/Run%20Length%20Encoding.cpp)
 * [Ugly Numbers](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Arrays/Ugly%20Numbers.cpp)
+
+## Day 116
+### Appeared in CodeChef CodeChef Starters 22 Division 2 and solved 4 problems.
+* [An Interesting Sequence](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/An%20Interesting%20Sequence.cpp)
+* [Even Subset Xor](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Even%20Subset%20Xor.cpp)
+* [Equal LIS](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Equal%20LIS.cpp)
+* [Merging Binary Strings](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Merging%20Binary%20Strings.cpp)
