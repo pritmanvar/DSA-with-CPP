@@ -836,3 +836,15 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Even Subset Xor](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Even%20Subset%20Xor.cpp)
 * [Equal LIS](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Equal%20LIS.cpp)
 * [Merging Binary Strings](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Merging%20Binary%20Strings.cpp)
+
+## Day 117
+### Solved Following Problems.
+* [198. House Robber](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Dynamic%20Programming/198.%20House%20Robber.cpp)
+* [213. House Robber II](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Dynamic%20Programming/213.%20House%20Robber%20II.cpp)
+* [740. Delete and Earn](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Dynamic%20Programming/740.%20Delete%20and%20Earn.cpp)
+
+## Day 118
+### Appeared in CodeChef CodeChef Starters 24 Division 2 and solved 3 problems.
+* [Avoid Contact](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Avoid%20Contact.cpp)
+* [Yet Another Constructive Problem](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Yet%20Another%20Constructive%20Problem.cpp)
+* [Anti Palindrome](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Anti%20Palindrome.cpp)
