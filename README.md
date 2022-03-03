@@ -848,3 +848,10 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Avoid Contact](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Avoid%20Contact.cpp)
 * [Yet Another Constructive Problem](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Yet%20Another%20Constructive%20Problem.cpp)
 * [Anti Palindrome](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Anti%20Palindrome.cpp)
+
+## Day 119
+### Solved Following Problems From Striver's CP Sheet.
+* [A - Bit++.cpp](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/A%20-%20Bit%2B%2B.cpp)
+* [A - Chewbaсca and Number.cpp](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/A%20-%20Chewba%D1%81ca%20and%20Number.cpp)
+* [A. Beautiful Matrix.cpp](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/A.%20Beautiful%20Matrix.cpp)
+* [A. Soft Drinking.cpp](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/A.%20Soft%20Drinking.cpp)
