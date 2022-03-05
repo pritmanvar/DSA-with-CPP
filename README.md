@@ -851,7 +851,16 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 119
 ### Solved Following Problems From Striver's CP Sheet.
-* [A - Bit++.cpp](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/A%20-%20Bit%2B%2B.cpp)
-* [A - Chewbaсca and Number.cpp](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/A%20-%20Chewba%D1%81ca%20and%20Number.cpp)
-* [A. Beautiful Matrix.cpp](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/A.%20Beautiful%20Matrix.cpp)
-* [A. Soft Drinking.cpp](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/A.%20Soft%20Drinking.cpp)
+* [A - Bit++.cpp](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A%20-%20Bit%2B%2B.cpp)
+* [A - Chewbaсca and Number.cpp](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A%20-%20Chewba%D1%81ca%20and%20Number.cpp)
+* [A. Beautiful Matrix.cpp](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Beautiful%20Matrix.cpp)
+* [A. Soft Drinking.cpp](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Soft%20Drinking.cpp)
+
+## Day 120
+### Solved Following Problems From Striver's CP Sheet.
+* [A. The New Year: Meeting Friends](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20The%20New%20Year:%20Meeting%20Friends.cpp)
+* [A. Sum of Round Numbers](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Sum%20of%20Round%20Numbers.cpp)
+* [A. Fox And Snake](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Fox%20And%20Snake.cpp)
+* [A. Anton and Polyhedrons](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Anton%20and%20Polyhedrons.cpp)
+* [C. Hamburgers](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Binary%20Search/C.%20Hamburgers.cpp)
+* [D1 - Magic Powder - 1](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Binary%20Search/D1%20-%20Magic%20Powder%20-%201.cpp)
