@@ -24,3 +24,4 @@ int main()
     cout << stoll(ans) << endl;
     return 0;
 }
+ 
