@@ -15,3 +15,4 @@ int main()
     cout << min(totalLiter/nl,min(limes,p/np))/n << endl;
     return 0;
 }
+ 
