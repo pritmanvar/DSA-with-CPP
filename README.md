@@ -864,3 +864,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [A. Anton and Polyhedrons](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Anton%20and%20Polyhedrons.cpp)
 * [C. Hamburgers](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Binary%20Search/C.%20Hamburgers.cpp)
 * [D1 - Magic Powder - 1](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Binary%20Search/D1%20-%20Magic%20Powder%20-%201.cpp)
+
+## Day 121
+### Solved Following Problems From Striver's CP Sheet.
+* [A. Arrival of the General](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Arrival%20of%20the%20General.cpp)
+* [A. Presents](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Presents.cpp)
+* [B. Pipeline](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Binary%20Search/B.%20Pipeline.cpp)
