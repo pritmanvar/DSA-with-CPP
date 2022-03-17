@@ -870,3 +870,11 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [A. Arrival of the General](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Arrival%20of%20the%20General.cpp)
 * [A. Presents](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Presents.cpp)
 * [B. Pipeline](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Binary%20Search/B.%20Pipeline.cpp)
+
+## Day 122
+### Solved Following Problems From Striver's CP Sheet.
+* [A. Nearly Lucky Number](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Nearly%20Lucky%20Number.cpp)
+* [A. Tram](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Tram.cpp)
+* [A. Wrong Subtraction](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Wrong%20Subtraction.cpp)
+* [A. Soldier and Bananas](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Soldier%20and%20Bananas.cpp)
+
