@@ -878,3 +878,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [A. Wrong Subtraction](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Wrong%20Subtraction.cpp)
 * [A. Soldier and Bananas](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Soldier%20and%20Bananas.cpp)
 
+## Appeared For Google KickStart Round A and solved 2 Problems.
+* [Speed Typing](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Google%20Competitions/Speed%20Typing.cpp)
+* [Challenge Nine](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Google%20Competitions/Challenge%20Nine.cpp)
+
