@@ -878,7 +878,15 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [A. Wrong Subtraction](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Wrong%20Subtraction.cpp)
 * [A. Soldier and Bananas](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Soldier%20and%20Bananas.cpp)
 
-## Appeared For Google KickStart Round A and solved 2 Problems.
+## Day 123
+### Appeared For Google KickStart Round A and solved 2 Problems.
 * [Speed Typing](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Google%20Competitions/Speed%20Typing.cpp)
 * [Challenge Nine](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Google%20Competitions/Challenge%20Nine.cpp)
 
+## Day 124
+### Solved Following Problems From Striver's CP Sheet.
+* [C. Poisoned Dagger](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Binary%20Search/C.%20Poisoned%20Dagger.cpp)
+* [A. Word Capitalization](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Word%20Capitalization.cpp)
+### Solved Following Problems From LeetCode.
+* [410. Split Array Largest Sum](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Searching/410.%20Split%20Array%20Largest%20Sum.cpp)
+* [1881. Maximum Value after Insertion](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Strings/1881.%20Maximum%20Value%20after%20Insertion.cpp)
