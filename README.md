@@ -885,8 +885,15 @@ This will be the repository for C++ topic wise questions, practice questions and
 
 ## Day 124
 ### Solved Following Problems From Striver's CP Sheet.
-* [C. Poisoned Dagger](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Binary%20Search/C.%20Poisoned%20Dagger.cpp)
+* [A. Bear and Big Brother]* [C. Poisoned Dagger](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Binary%20Search/C.%20Poisoned%20Dagger.cpp)
 * [A. Word Capitalization](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Word%20Capitalization.cpp)
 ### Solved Following Problems From LeetCode.
 * [410. Split Array Largest Sum](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Searching/410.%20Split%20Array%20Largest%20Sum.cpp)
 * [1881. Maximum Value after Insertion](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Strings/1881.%20Maximum%20Value%20after%20Insertion.cpp)
+
+## Day 125
+### Solved Following Problems From Striver's CP Sheet.
+* [A. Bear and Big Brother](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Bear%20and%20Big%20Brother.cpp)
+* [A. Boy or Girl](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Boy%20or%20Girl.cpp)
+* [A. Helpful Maths](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Helpful%20Maths.cpp)
+* [A. C+=](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20C%2B%3D.cpp)
