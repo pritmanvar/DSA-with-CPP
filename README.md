@@ -844,7 +844,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [740. Delete and Earn](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Dynamic%20Programming/740.%20Delete%20and%20Earn.cpp)
 
 ## Day 118
-### Appeared in CodeChef CodeChef Starters 24 Division 2 and solved 3 problems.
+### Appeared in CodeChef Starters 24 Division 2 and solved 3 problems.
 * [Avoid Contact](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Avoid%20Contact.cpp)
 * [Yet Another Constructive Problem](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Yet%20Another%20Constructive%20Problem.cpp)
 * [Anti Palindrome](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Anti%20Palindrome.cpp)
@@ -897,3 +897,12 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [A. Boy or Girl](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Boy%20or%20Girl.cpp)
 * [A. Helpful Maths](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Helpful%20Maths.cpp)
 * [A. C+=](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20C%2B%3D.cpp)
+
+## Day 126
+### Appeared For Google CodeJam Qualification Round 2022 and solved 3 problems.
+* [Punched Cards](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Google%20Competitions/Punched%20Cards.cpp)
+* [3D Printing](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Google%20Competitions/3D%20Printing.cpp)
+* [d1000000](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Google%20Competitions/d1000000.cpp)
+### Appeared For April Cook-Off 2022 Division 2 and solved 2 problems.
+* [Digit Sum Parities](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Digit%20Sum%20Parities.cpp)
+* [Sticks and Rectangles](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Sticks%20and%20Rectangles.cpp)
