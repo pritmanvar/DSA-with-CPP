@@ -906,3 +906,14 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Appeared For April Cook-Off 2022 Division 2 and solved 2 problems.
 * [Digit Sum Parities](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Digit%20Sum%20Parities.cpp)
 * [Sticks and Rectangles](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Sticks%20and%20Rectangles.cpp)
+
+## Day 127
+### Solved Following Problems From Striver's CP Sheet.
+* [B. New Year's Eve](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Bit%20Manipulation/B.%20New%20Year's%20Eve.cpp)
+* [A. Maximum Increase](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Maximum%20Increase.cpp)
+* [A. Gennady and a Card Game](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Striver%20CP%20Sheet/Implementation-Constructive/A.%20Gennady%20and%20a%20Card%20Game.cpp)
+### Appeared For CodeChef Starters 33 Division 2 and solved 4 problems.
+* [Non Adjacent Flips](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Non%20Adjacent%20Flips.cpp)
+* [Make Them Equal](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Make%20Them%20Equal.cpp)
+* [Distinct Dilemma](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Distinct%20Dilemma.cpp)
+* [Broken Life](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Broken%20Life.cpp)
