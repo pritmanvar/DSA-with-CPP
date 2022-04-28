@@ -917,3 +917,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [Make Them Equal](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Make%20Them%20Equal.cpp)
 * [Distinct Dilemma](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Distinct%20Dilemma.cpp)
 * [Broken Life](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CodeChef/Broken%20Life.cpp)
+
+## Day 128
+### Solved Following Problems From LeetCode.
+* [1751. Maximum Number of Events That Can Be Attended II](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Dynamic%20Programming/1751.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II.cpp)
+* [1202. Smallest String With Swaps](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Graphs/1202.%20Smallest%20String%20With%20Swaps.cpp)
+* [1631. Path With Minimum Effort](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Graphs/1631.%20Path%20With%20Minimum%20Effort.cpp)
