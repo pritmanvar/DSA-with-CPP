@@ -923,3 +923,12 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [1751. Maximum Number of Events That Can Be Attended II](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Dynamic%20Programming/1751.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II.cpp)
 * [1202. Smallest String With Swaps](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Graphs/1202.%20Smallest%20String%20With%20Swaps.cpp)
 * [1631. Path With Minimum Effort](https://github.com/pritmanvar/DSA-with-CPP/blob/main/Graphs/1631.%20Path%20With%20Minimum%20Effort.cpp)
+
+## Day 129
+### Solved Following Problems From Arsh's Sheet.
+* [287. Find the Duplicate Number](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/287.%20Find%20the%20Duplicate%20Number.cpp)
+* [75. Sort Colors](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/75.%20Sort%20Colors.cpp)
+* [26. Remove Duplicates from Sorted Array](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)
+* [73. Set Matrix Zeroes](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/73.%20Set%20Matrix%20Zeroes.cpp)
+* [283. Move Zeroes](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/283.%20Move%20Zeroes.cpp)
+* [121. Best Time to Buy and Sell Stock](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
