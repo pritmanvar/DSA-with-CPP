@@ -932,3 +932,13 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [73. Set Matrix Zeroes](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/73.%20Set%20Matrix%20Zeroes.cpp)
 * [283. Move Zeroes](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/283.%20Move%20Zeroes.cpp)
 * [121. Best Time to Buy and Sell Stock](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
+
+## Day 130
+### Solved Following Problems From Arsh's Sheet.
+* [1. Two Sum](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/1.%20Two%20Sum.cpp)
+* [122. Best Time to Buy and Sell Stock II](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)
+* [974. Subarray Sums Divisible by K](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/974.%20Subarray%20Sums%20Divisible%20by%20K.cpp)
+* [442. Find All Duplicates in an Array](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/287.%20Find%20the%20Duplicate%20Number.cpp)
+* [11. Container With Most Water](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/11.%20Container%20With%20Most%20Water.cpp)
+* [15. 3Sum](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/15.%203Sum.cpp)
+
