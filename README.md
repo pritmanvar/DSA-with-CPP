@@ -942,3 +942,11 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [11. Container With Most Water](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/11.%20Container%20With%20Most%20Water.cpp)
 * [15. 3Sum](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/15.%203Sum.cpp)
 
+## Day 131
+### Solved Following Problems From Arsh's Sheet.
+* [18. 4Sum](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/18.%204Sum.cpp)
+* [1423. Maximum Points You Can Obtain from Cards](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.cpp)
+* [560. Subarray Sum Equals K](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/560.%20Subarray%20Sum%20Equals%20K.cpp)
+* [54. Spiral Matrix](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/54.%20Spiral%20Matrix.cpp)
+* [79. Word Search](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/79.%20Word%20Search.cpp)
+* [55. Jump Game](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/55.%20Jump%20Game.cpp)
