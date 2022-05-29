@@ -950,3 +950,11 @@ This will be the repository for C++ topic wise questions, practice questions and
 * [54. Spiral Matrix](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/54.%20Spiral%20Matrix.cpp)
 * [79. Word Search](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/79.%20Word%20Search.cpp)
 * [55. Jump Game](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/55.%20Jump%20Game.cpp)
+
+## Day 132
+### Solved Following Problems From Arsh's Sheet.
+* [88. Merge Sorted Array](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/88.%20Merge%20Sorted%20Array.cpp)
+* [169. Majority Element](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/169.%20Majority%20Element.cpp)
+* [493. Reverse Pairs](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/493.%20Reverse%20Pairs.cpp)
+* [289. Game of Life](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/289.%20Game%20of%20Life.cpp)
+* [1499. Max Value of Equation](https://github.com/pritmanvar/DSA-with-CPP/blob/main/CrackYourInternship%20Challenge%20by%20Arsh/Array/1499.%20Max%20Value%20of%20Equation.cpp)
